@@ -1,0 +1,6985 @@
+{
+ "generated_at": "2026-11-25T03:48:34+06:00",
+ "timezone": "Asia/Dhaka",
+ "source": "Open-Meteo",
+ "model": "ecmwf_ifs025",
+ "forecast_days": 14,
+ "districts": [
+  {
+   "id": "dhaka",
+   "name_en": "Dhaka",
+   "name_bn": "ঢাকা",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.7104,
+   "lon": 90.4074,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.1,
+     "feels": 27.4,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.1,
+     "feels": 28.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.3,
+     "feels": 30.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.6,
+     "feels": 29.7,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.1,
+     "feels": 30.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.0,
+     "feels": 30.9,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.1,
+     "feels": 29.5,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.4,
+     "feels": 28.4,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.1,
+     "feels": 28.8,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.9,
+     "feels": 28.7,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.2,
+     "feels": 28.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.2,
+     "feels": 26.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.1,
+     "feels": 25.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.1,
+     "feels": 24.5,
+     "humidity": 76,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "gazipur",
+   "name_en": "Gazipur",
+   "name_bn": "গাজীপুর",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.9984,
+   "lon": 90.4223,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 27.4,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 28.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.2,
+     "feels": 30.0,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.4,
+     "feels": 29.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 30.7,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.6,
+     "feels": 30.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.0,
+     "feels": 29.6,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.3,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.0,
+     "feels": 29.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.0,
+     "feels": 29.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 28.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.3,
+     "feels": 26.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.9,
+     "feels": 25.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 24.9,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "narayanganj",
+   "name_en": "Narayanganj",
+   "name_bn": "নারায়ণগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.6135,
+   "lon": 90.503,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.4,
+     "feels": 27.3,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.2,
+     "feels": 28.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.4,
+     "feels": 29.8,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.6,
+     "feels": 29.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.4,
+     "feels": 31.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.0,
+     "feels": 31.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.4,
+     "feels": 29.4,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.5,
+     "feels": 28.0,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.9,
+     "feels": 28.2,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.0,
+     "feels": 28.8,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.0,
+     "feels": 27.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.5,
+     "feels": 26.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.1,
+     "feels": 25.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.1,
+     "feels": 24.9,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "narsingdi",
+   "name_en": "Narsingdi",
+   "name_bn": "নরসিংদী",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.923,
+   "lon": 90.7177,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.0,
+     "feels": 28.1,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 29.3,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.2,
+     "feels": 30.1,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 30.0,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 30.6,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.1,
+     "feels": 30.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.0,
+     "feels": 29.5,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.6,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.0,
+     "feels": 28.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.1,
+     "feels": 29.8,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 28.6,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.4,
+     "feels": 26.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.0,
+     "feels": 26.1,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 25.0,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "manikganj",
+   "name_en": "Manikganj",
+   "name_bn": "মানিকগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.8577,
+   "lon": 90.0096,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.8,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 28.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 29.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 28.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.9,
+     "feels": 30.1,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 29.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.2,
+     "feels": 29.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.5,
+     "feels": 27.6,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.2,
+     "feels": 28.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.0,
+     "feels": 27.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.5,
+     "feels": 27.7,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.3,
+     "feels": 24.9,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.1,
+     "feels": 24.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 23.6,
+     "feels": 23.9,
+     "humidity": 82,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "munshiganj",
+   "name_en": "Munshiganj",
+   "name_bn": "মুন্সীগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.5517,
+   "lon": 90.5346,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.4,
+     "feels": 27.3,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.2,
+     "feels": 28.5,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.4,
+     "feels": 29.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.7,
+     "feels": 29.5,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.5,
+     "feels": 31.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.1,
+     "feels": 31.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.5,
+     "feels": 29.5,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.5,
+     "feels": 28.1,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.0,
+     "feels": 28.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.0,
+     "feels": 28.8,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.0,
+     "feels": 27.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.6,
+     "feels": 26.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.2,
+     "feels": 25.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 24.9,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "tangail",
+   "name_en": "Tangail",
+   "name_bn": "টাঙ্গাইল",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 24.2498,
+   "lon": 89.9166,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 26.8,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 28.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.7,
+     "feels": 29.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 29.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 30.9,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.3,
+     "feels": 30.5,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.7,
+     "feels": 29.5,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 28.1,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.0,
+     "feels": 28.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.8,
+     "feels": 28.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.0,
+     "feels": 27.4,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.8,
+     "feels": 25.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.7,
+     "feels": 24.7,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 23.9,
+     "feels": 24.2,
+     "humidity": 78,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "kishoreganj",
+   "name_en": "Kishoreganj",
+   "name_bn": "কিশোরগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 24.4394,
+   "lon": 90.7829,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.0,
+     "feels": 28.9,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.8,
+     "feels": 29.1,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.7,
+     "feels": 29.8,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.5,
+     "feels": 30.4,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.8,
+     "feels": 30.8,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.4,
+     "feels": 30.5,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.0,
+     "feels": 29.3,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.7,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.3,
+     "feels": 28.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.3,
+     "feels": 29.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 28.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.4,
+     "feels": 26.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.2,
+     "feels": 26.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.5,
+     "feels": 25.2,
+     "humidity": 78,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "faridpur",
+   "name_en": "Faridpur",
+   "name_bn": "ফরিদপুর",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.6061,
+   "lon": 89.8406,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 26.7,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 27.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 28.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.2,
+     "feels": 29.9,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.1,
+     "feels": 30.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.5,
+     "feels": 28.7,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 27.9,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 28.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 28.4,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 27.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.1,
+     "feels": 25.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.7,
+     "feels": 24.8,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 24.9,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "rajbari",
+   "name_en": "Rajbari",
+   "name_bn": "রাজবাড়ী",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.7573,
+   "lon": 89.6463,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.4,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 27.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.1,
+     "feels": 28.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 28.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.7,
+     "feels": 29.6,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 29.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.2,
+     "feels": 28.4,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.5,
+     "feels": 27.6,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.4,
+     "feels": 27.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.2,
+     "feels": 27.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.5,
+     "feels": 27.0,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.5,
+     "feels": 24.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.1,
+     "feels": 24.7,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "madaripur",
+   "name_en": "Madaripur",
+   "name_bn": "মাদারীপুর",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.171,
+   "lon": 90.2094,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 26.8,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 28.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.7,
+     "feels": 29.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 29.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.7,
+     "feels": 30.9,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.3,
+     "feels": 30.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.7,
+     "feels": 29.3,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 27.6,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.2,
+     "feels": 27.8,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 28.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.5,
+     "feels": 27.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.8,
+     "feels": 25.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.7,
+     "feels": 25.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 24.5,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "shariatpur",
+   "name_en": "Shariatpur",
+   "name_bn": "শরীয়তপুর",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.21,
+   "lon": 90.35,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 26.8,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.8,
+     "feels": 28.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.7,
+     "feels": 29.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 29.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.8,
+     "feels": 30.9,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.4,
+     "feels": 30.6,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.8,
+     "feels": 29.3,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.1,
+     "feels": 27.7,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.3,
+     "feels": 27.8,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 28.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.6,
+     "feels": 27.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.9,
+     "feels": 25.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.7,
+     "feels": 25.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 24.6,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "gopalganj",
+   "name_en": "Gopalganj",
+   "name_bn": "গোপালগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.2235,
+   "lon": 90.0604,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 26.9,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 28.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.7,
+     "feels": 29.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.5,
+     "feels": 29.1,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 30.3,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.4,
+     "feels": 30.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.8,
+     "feels": 29.6,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.1,
+     "feels": 27.9,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 27.7,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.6,
+     "feels": 28.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.6,
+     "feels": 27.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.1,
+     "feels": 25.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.0,
+     "feels": 25.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.5,
+     "feels": 25.1,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "chattogram",
+   "name_en": "Chattogram",
+   "name_bn": "চট্টগ্রাম",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.3384,
+   "lon": 91.8317,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.7,
+     "feels": 28.8,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 28.9,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.7,
+     "feels": 30.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.9,
+     "feels": 32.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 29.0,
+     "feels": 32.0,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.1,
+     "feels": 32.6,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.5,
+     "feels": 31.0,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.5,
+     "feels": 30.1,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.0,
+     "feels": 28.7,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.0,
+     "feels": 30.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 28.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.3,
+     "feels": 27.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.4,
+     "feels": 26.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.7,
+     "feels": 26.3,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "cumilla",
+   "name_en": "Cumilla",
+   "name_bn": "কুমিল্লা",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.4619,
+   "lon": 91.185,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.5,
+     "feels": 28.9,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.3,
+     "feels": 29.5,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.5,
+     "feels": 30.2,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.5,
+     "feels": 30.3,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.3,
+     "feels": 31.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.7,
+     "feels": 31.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.3,
+     "feels": 30.1,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.9,
+     "feels": 29.1,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.1,
+     "feels": 29.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.4,
+     "feels": 30.0,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.4,
+     "feels": 28.8,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.4,
+     "feels": 26.8,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.3,
+     "feels": 26.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.3,
+     "feels": 25.4,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "chandpur",
+   "name_en": "Chandpur",
+   "name_bn": "চাঁদপুর",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.2271,
+   "lon": 90.6543,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 27.6,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.2,
+     "feels": 28.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.4,
+     "feels": 30.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.4,
+     "feels": 29.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.7,
+     "feels": 31.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.1,
+     "feels": 31.1,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.2,
+     "feels": 29.6,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.8,
+     "feels": 28.8,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.0,
+     "feels": 28.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.0,
+     "feels": 28.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 28.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.6,
+     "feels": 26.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.4,
+     "feels": 25.9,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 25.5,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "brahmanbaria",
+   "name_en": "Brahmanbaria",
+   "name_bn": "ব্রাহ্মণবাড়িয়া",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.9746,
+   "lon": 91.1123,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 28.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 29.1,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.2,
+     "feels": 30.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.0,
+     "feels": 30.4,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.7,
+     "feels": 30.4,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 30.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.7,
+     "feels": 29.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.8,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.7,
+     "feels": 28.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.8,
+     "feels": 29.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 28.0,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.8,
+     "feels": 26.5,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.9,
+     "feels": 26.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 23.9,
+     "feels": 24.9,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "noakhali",
+   "name_en": "Noakhali",
+   "name_bn": "নোয়াখালী",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.8667,
+   "lon": 91.1,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.7,
+     "feels": 27.9,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.5,
+     "feels": 29.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 28.2,
+     "feels": 30.9,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 28.2,
+     "feels": 30.1,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 29.5,
+     "feels": 32.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.9,
+     "feels": 32.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 29.0,
+     "feels": 30.3,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.6,
+     "feels": 29.4,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.3,
+     "feels": 28.4,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.3,
+     "feels": 29.3,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.6,
+     "feels": 28.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 26.1,
+     "feels": 27.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 26.0,
+     "feels": 26.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.2,
+     "feels": 25.7,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "lakshmipur",
+   "name_en": "Lakshmipur",
+   "name_bn": "লক্ষ্মীপুর",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.9443,
+   "lon": 90.83,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.5,
+     "feels": 27.6,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.5,
+     "feels": 28.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.7,
+     "feels": 30.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.7,
+     "feels": 29.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 29.3,
+     "feels": 32.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.4,
+     "feels": 31.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.5,
+     "feels": 29.8,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.1,
+     "feels": 28.9,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.0,
+     "feels": 28.1,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.1,
+     "feels": 28.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 28.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.9,
+     "feels": 27.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.5,
+     "feels": 26.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.0,
+     "feels": 25.5,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "feni",
+   "name_en": "Feni",
+   "name_bn": "ফেনী",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.0144,
+   "lon": 91.3966,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.8,
+     "feels": 29.0,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.6,
+     "feels": 29.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 28.0,
+     "feels": 30.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 28.0,
+     "feels": 31.3,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 29.3,
+     "feels": 32.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.4,
+     "feels": 32.5,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.8,
+     "feels": 30.7,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.4,
+     "feels": 29.4,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.3,
+     "feels": 29.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.6,
+     "feels": 30.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.6,
+     "feels": 29.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.4,
+     "feels": 27.0,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.5,
+     "feels": 27.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.0,
+     "feels": 26.0,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "coxs-bazar",
+   "name_en": "Cox's Bazar",
+   "name_bn": "কক্সবাজার",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 21.4397,
+   "lon": 92.0096,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 27.2,
+     "feels": 29.0,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.8,
+     "feels": 29.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 29.0,
+     "feels": 31.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 29.7,
+     "feels": 32.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 30.3,
+     "feels": 33.1,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.9,
+     "feels": 31.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 29.8,
+     "feels": 32.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 29.8,
+     "feels": 31.8,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 28.3,
+     "feels": 29.5,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 28.3,
+     "feels": 30.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.8,
+     "feels": 29.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 26.2,
+     "feels": 27.5,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.7,
+     "feels": 26.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 26.0,
+     "feels": 27.0,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "khagrachhari",
+   "name_en": "Khagrachhari",
+   "name_bn": "খাগড়াছড়ি",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.1079,
+   "lon": 91.9701,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 27.0,
+     "feels": 30.0,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.6,
+     "feels": 30.4,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.8,
+     "feels": 31.0,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 28.3,
+     "feels": 32.2,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 29.3,
+     "feels": 32.5,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.9,
+     "feels": 32.6,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 29.1,
+     "feels": 32.1,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.6,
+     "feels": 30.3,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 28.1,
+     "feels": 30.9,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 28.1,
+     "feels": 31.8,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.9,
+     "feels": 29.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.7,
+     "feels": 27.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.8,
+     "feels": 27.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.3,
+     "feels": 27.1,
+     "humidity": 82,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "rangamati",
+   "name_en": "Rangamati",
+   "name_bn": "রাঙ্গামাটি",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.6432,
+   "lon": 92.1919,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 27.3,
+     "feels": 29.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 27.1,
+     "feels": 30.5,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.5,
+     "feels": 30.9,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 28.3,
+     "feels": 31.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 29.3,
+     "feels": 31.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.7,
+     "feels": 32.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 29.1,
+     "feels": 31.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.9,
+     "feels": 30.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 28.3,
+     "feels": 30.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 28.1,
+     "feels": 31.0,
+     "humidity": 87,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 27.4,
+     "feels": 29.5,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.9,
+     "feels": 27.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.8,
+     "feels": 27.3,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.3,
+     "feels": 27.1,
+     "humidity": 84,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "bandarban",
+   "name_en": "Bandarban",
+   "name_bn": "বান্দরবান",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.1953,
+   "lon": 92.2195,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 27.1,
+     "feels": 30.4,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 27.1,
+     "feels": 30.8,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 28.1,
+     "feels": 31.9,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 29.1,
+     "feels": 32.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 30.1,
+     "feels": 33.6,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.7,
+     "feels": 32.9,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 29.6,
+     "feels": 33.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 29.2,
+     "feels": 31.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 28.1,
+     "feels": 31.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 28.4,
+     "feels": 32.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 27.4,
+     "feels": 30.3,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 26.0,
+     "feels": 28.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.6,
+     "feels": 28.2,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.6,
+     "feels": 27.6,
+     "humidity": 85,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "khulna",
+   "name_en": "Khulna",
+   "name_bn": "খুলনা",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 22.8098,
+   "lon": 89.5644,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 26.9,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 27.6,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 28.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 28.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 30.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 29.8,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.2,
+     "feels": 28.3,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 28.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.2,
+     "feels": 27.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 27.6,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.1,
+     "feels": 25.3,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.9,
+     "feels": 24.5,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.9,
+     "feels": 25.7,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "bagerhat",
+   "name_en": "Bagerhat",
+   "name_bn": "বাগেরহাট",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 22.6566,
+   "lon": 89.7912,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 27.0,
+     "feels": 27.0,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.5,
+     "feels": 28.2,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.5,
+     "feels": 29.3,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 28.2,
+     "feels": 29.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.8,
+     "feels": 30.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.1,
+     "feels": 30.6,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.3,
+     "feels": 28.9,
+     "humidity": 70,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.1,
+     "feels": 29.2,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.3,
+     "feels": 27.9,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.1,
+     "feels": 28.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 27.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.9,
+     "feels": 25.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.7,
+     "feels": 25.4,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.7,
+     "feels": 26.1,
+     "humidity": 78,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "satkhira",
+   "name_en": "Satkhira",
+   "name_bn": "সাতক্ষীরা",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 22.7082,
+   "lon": 89.0718,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.4,
+     "feels": 27.5,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 27.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 27.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 28.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.2,
+     "feels": 29.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.3,
+     "feels": 29.1,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.7,
+     "feels": 27.1,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.5,
+     "feels": 27.9,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 27.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 27.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.5,
+     "feels": 26.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.8,
+     "feels": 25.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.9,
+     "feels": 25.8,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "jashore",
+   "name_en": "Jashore",
+   "name_bn": "যশোর",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.1697,
+   "lon": 89.2137,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 26.5,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 27.4,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 28.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 28.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.2,
+     "feels": 29.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.6,
+     "feels": 29.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.0,
+     "feels": 27.8,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 28.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.7,
+     "feels": 28.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 27.8,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 27.0,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 24.7,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.1,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.7,
+     "feels": 25.2,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "narail",
+   "name_en": "Narail",
+   "name_bn": "নড়াইল",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.1551,
+   "lon": 89.4951,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 26.5,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 27.9,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 28.7,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 29.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 29.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.5,
+     "feels": 27.9,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 28.0,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 28.0,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 27.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.8,
+     "feels": 24.9,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.7,
+     "feels": 24.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.7,
+     "feels": 25.2,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "magura",
+   "name_en": "Magura",
+   "name_bn": "মাগুরা",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.487,
+   "lon": 89.4159,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.5,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 27.9,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 28.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.2,
+     "feels": 29.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 29.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.2,
+     "feels": 27.8,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 27.9,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 28.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 27.8,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 24.8,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.7,
+     "feels": 24.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 24.8,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "jhenaidah",
+   "name_en": "Jhenaidah",
+   "name_bn": "ঝিনাইদহ",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.542,
+   "lon": 89.183,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.1,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 27.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 28.1,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 28.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.0,
+     "feels": 29.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.3,
+     "feels": 28.9,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.7,
+     "feels": 27.8,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 27.6,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 28.0,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 27.7,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 24.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 24.9,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "kushtia",
+   "name_en": "Kushtia",
+   "name_bn": "কুষ্টিয়া",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.9028,
+   "lon": 89.1194,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.7,
+     "feels": 26.1,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 27.0,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 25.9,
+     "feels": 27.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.4,
+     "feels": 27.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.5,
+     "feels": 28.8,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 26.8,
+     "feels": 28.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.5,
+     "feels": 27.5,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.3,
+     "feels": 27.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.2,
+     "feels": 27.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 26.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.5,
+     "feels": 26.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.1,
+     "feels": 24.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 23.9,
+     "feels": 24.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 23.9,
+     "feels": 24.7,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "chuadanga",
+   "name_en": "Chuadanga",
+   "name_bn": "চুয়াডাঙ্গা",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.5387,
+   "lon": 89.201,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.1,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 27.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 28.1,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 28.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.0,
+     "feels": 29.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.3,
+     "feels": 28.9,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.7,
+     "feels": 27.8,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 27.6,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 28.0,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 27.7,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 24.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 24.9,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "meherpur",
+   "name_en": "Meherpur",
+   "name_bn": "মেহেরপুর",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.7769,
+   "lon": 88.6303,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.7,
+     "feels": 25.6,
+     "humidity": 70,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 27.2,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 25.9,
+     "feels": 27.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.2,
+     "feels": 27.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.2,
+     "feels": 28.7,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 26.6,
+     "feels": 28.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.0,
+     "feels": 27.1,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.3,
+     "feels": 27.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.2,
+     "feels": 27.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.0,
+     "feels": 26.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.3,
+     "feels": 25.6,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 23.8,
+     "feels": 24.1,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 23.7,
+     "feels": 23.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 25.0,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "rajshahi",
+   "name_en": "Rajshahi",
+   "name_bn": "রাজশাহী",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.374,
+   "lon": 88.6011,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.2,
+     "feels": 25.7,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 26.8,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 25.7,
+     "feels": 27.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 25.9,
+     "feels": 27.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.2,
+     "feels": 28.1,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 26.3,
+     "feels": 28.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.2,
+     "feels": 27.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.5,
+     "feels": 27.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 27.1,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 26.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.0,
+     "feels": 24.7,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 23.8,
+     "feels": 23.8,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 23.9,
+     "feels": 24.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 23.9,
+     "feels": 24.2,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "natore",
+   "name_en": "Natore",
+   "name_bn": "নাটোর",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.4111,
+   "lon": 88.9867,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.1,
+     "feels": 26.5,
+     "humidity": 68,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.2,
+     "feels": 27.3,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 27.9,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 28.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.9,
+     "feels": 29.1,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.3,
+     "feels": 29.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.2,
+     "feels": 28.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 27.5,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.9,
+     "feels": 27.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.7,
+     "feels": 26.3,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.7,
+     "feels": 26.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.5,
+     "feels": 24.2,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.1,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.1,
+     "feels": 24.4,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "naogaon",
+   "name_en": "Naogaon",
+   "name_bn": "নওগাঁ",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.8042,
+   "lon": 88.9488,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.4,
+     "humidity": 69,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.9,
+     "feels": 27.2,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.6,
+     "feels": 28.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.9,
+     "feels": 29.1,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.5,
+     "feels": 29.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.4,
+     "feels": 28.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 27.6,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.2,
+     "feels": 27.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 26.5,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.7,
+     "feels": 25.7,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.5,
+     "feels": 23.8,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.1,
+     "feels": 23.6,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 24.1,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "chapai-nawabganj",
+   "name_en": "Chapai Nawabganj",
+   "name_bn": "চাঁপাইনবাবগঞ্জ",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.5903,
+   "lon": 88.2744,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 24.9,
+     "feels": 25.4,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.2,
+     "feels": 26.1,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 25.4,
+     "feels": 26.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 25.4,
+     "feels": 26.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 25.7,
+     "feels": 27.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 25.8,
+     "feels": 27.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 25.9,
+     "feels": 26.8,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.0,
+     "feels": 27.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.9,
+     "feels": 26.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 25.7,
+     "feels": 25.7,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 24.5,
+     "feels": 24.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 23.5,
+     "feels": 23.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 23.6,
+     "feels": 23.6,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 23.9,
+     "feels": 24.0,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "pabna",
+   "name_en": "Pabna",
+   "name_bn": "পাবনা",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.0064,
+   "lon": 89.2372,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.7,
+     "feels": 26.4,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 27.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 28.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 28.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.7,
+     "feels": 29.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.1,
+     "feels": 28.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.0,
+     "feels": 28.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.5,
+     "feels": 27.6,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 28.1,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 27.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.3,
+     "feels": 24.4,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.2,
+     "feels": 24.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 23.9,
+     "feels": 24.4,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "sirajganj",
+   "name_en": "Sirajganj",
+   "name_bn": "সিরাজগঞ্জ",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.4577,
+   "lon": 89.708,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.5,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 27.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 28.5,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.2,
+     "feels": 30.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 29.5,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.5,
+     "feels": 29.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.5,
+     "feels": 27.9,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.7,
+     "feels": 28.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 27.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 24.6,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 23.5,
+     "humidity": 77,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "bogura",
+   "name_en": "Bogura",
+   "name_bn": "বগুড়া",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.851,
+   "lon": 89.3711,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.5,
+     "humidity": 69,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 27.4,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 28.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.0,
+     "feels": 29.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 29.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.7,
+     "feels": 29.1,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 28.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.2,
+     "feels": 28.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.8,
+     "feels": 26.9,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.0,
+     "feels": 25.9,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 24.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 23.8,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 23.9,
+     "humidity": 78,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "joypurhat",
+   "name_en": "Joypurhat",
+   "name_bn": "জয়পুরহাট",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 25.0945,
+   "lon": 89.0229,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.7,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 27.1,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 27.9,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.4,
+     "feels": 28.2,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.7,
+     "feels": 29.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 30.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.2,
+     "feels": 28.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 27.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.2,
+     "feels": 27.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 26.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.5,
+     "feels": 25.5,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.3,
+     "feels": 23.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.2,
+     "feels": 23.6,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 24.0,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "barishal",
+   "name_en": "Barishal",
+   "name_bn": "বরিশাল",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.705,
+   "lon": 90.3701,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.4,
+     "feels": 27.0,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 28.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.7,
+     "feels": 29.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 29.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.0,
+     "feels": 31.1,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.3,
+     "feels": 30.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.0,
+     "feels": 29.2,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.2,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.2,
+     "feels": 27.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 27.9,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.0,
+     "feels": 27.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.6,
+     "feels": 26.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.4,
+     "feels": 25.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.2,
+     "feels": 25.8,
+     "humidity": 77,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "pirojpur",
+   "name_en": "Pirojpur",
+   "name_bn": "পিরোজপুর",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.5797,
+   "lon": 89.9752,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 27.0,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 28.1,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.7,
+     "feels": 28.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 29.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.7,
+     "feels": 31.0,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.1,
+     "feels": 30.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.5,
+     "feels": 28.8,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 28.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.7,
+     "feels": 27.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.0,
+     "feels": 27.5,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 27.2,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.3,
+     "feels": 25.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.9,
+     "feels": 25.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.9,
+     "feels": 25.7,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "jhalokati",
+   "name_en": "Jhalokati",
+   "name_bn": "ঝালকাঠি",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.6426,
+   "lon": 90.2011,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.5,
+     "feels": 27.0,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.8,
+     "feels": 28.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.7,
+     "feels": 29.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.2,
+     "feels": 29.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.0,
+     "feels": 31.1,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.4,
+     "feels": 30.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.0,
+     "feels": 29.2,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.3,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.3,
+     "feels": 27.6,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.6,
+     "feels": 27.9,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.1,
+     "feels": 27.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.6,
+     "feels": 26.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.5,
+     "feels": 25.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.2,
+     "feels": 25.8,
+     "humidity": 77,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "patuakhali",
+   "name_en": "Patuakhali",
+   "name_bn": "পটুয়াখালী",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.3683,
+   "lon": 90.3458,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.6,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.2,
+     "feels": 27.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.9,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 29.0,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.7,
+     "feels": 31.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 30.5,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.2,
+     "feels": 28.9,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 29.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.5,
+     "feels": 27.0,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 25.5,
+     "feels": 27.5,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.3,
+     "feels": 27.0,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.8,
+     "feels": 25.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 25.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.7,
+     "feels": 25.7,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "barguna",
+   "name_en": "Barguna",
+   "name_bn": "বরগুনা",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.1567,
+   "lon": 90.1176,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 27.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.2,
+     "feels": 27.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 28.7,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 29.1,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.7,
+     "feels": 31.0,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 30.5,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.2,
+     "feels": 28.8,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 29.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.5,
+     "feels": 27.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 25.5,
+     "feels": 27.7,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.3,
+     "feels": 26.8,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.8,
+     "feels": 25.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 25.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.7,
+     "feels": 25.6,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "bhola",
+   "name_en": "Bhola",
+   "name_bn": "ভোলা",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.6876,
+   "lon": 90.644,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 26.7,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.5,
+     "feels": 27.8,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.6,
+     "feels": 29.1,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 29.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.7,
+     "feels": 30.9,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.1,
+     "feels": 30.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.5,
+     "feels": 28.9,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.0,
+     "feels": 28.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.7,
+     "feels": 27.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 25.8,
+     "feels": 27.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.3,
+     "feels": 27.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.1,
+     "feels": 26.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.7,
+     "feels": 25.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.9,
+     "feels": 25.1,
+     "humidity": 82,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "sylhet",
+   "name_en": "Sylhet",
+   "name_bn": "সিলেট",
+   "division_en": "Sylhet",
+   "division_bn": "সিলেট",
+   "lat": 24.899,
+   "lon": 91.872,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.9,
+     "feels": 29.5,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 27.0,
+     "feels": 30.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.9,
+     "feels": 29.7,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.7,
+     "feels": 30.3,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.7,
+     "feels": 30.7,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.3,
+     "feels": 30.1,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.0,
+     "feels": 29.7,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.0,
+     "feels": 28.9,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 28.0,
+     "feels": 30.5,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.3,
+     "feels": 29.4,
+     "humidity": 70,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.8,
+     "feels": 28.7,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.6,
+     "feels": 27.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.7,
+     "feels": 26.6,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.9,
+     "feels": 26.9,
+     "humidity": 81,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "sunamganj",
+   "name_en": "Sunamganj",
+   "name_bn": "সুনামগঞ্জ",
+   "division_en": "Sylhet",
+   "division_bn": "সিলেট",
+   "lat": 25.0689,
+   "lon": 91.4024,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 27.3,
+     "feels": 30.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 27.3,
+     "feels": 30.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.5,
+     "feels": 30.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 28.0,
+     "feels": 30.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.8,
+     "feels": 30.2,
+     "humidity": 70,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.9,
+     "feels": 30.6,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.6,
+     "feels": 29.6,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.9,
+     "feels": 28.6,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 28.1,
+     "feels": 29.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 28.1,
+     "feels": 29.0,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 27.1,
+     "feels": 28.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 26.2,
+     "feels": 27.8,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 26.0,
+     "feels": 27.1,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.3,
+     "feels": 26.8,
+     "humidity": 82,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "habiganj",
+   "name_en": "Habiganj",
+   "name_bn": "হবিগঞ্জ",
+   "division_en": "Sylhet",
+   "division_bn": "সিলেট",
+   "lat": 24.3804,
+   "lon": 91.413,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 27.4,
+     "feels": 30.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 27.2,
+     "feels": 30.4,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 28.1,
+     "feels": 30.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.9,
+     "feels": 29.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 29.4,
+     "feels": 30.4,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.8,
+     "feels": 31.5,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.9,
+     "feels": 30.6,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.7,
+     "feels": 29.9,
+     "humidity": 70,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 28.4,
+     "feels": 30.4,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 28.5,
+     "feels": 30.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 27.5,
+     "feels": 29.5,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 26.3,
+     "feels": 27.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 26.4,
+     "feels": 27.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.4,
+     "feels": 26.6,
+     "humidity": 78,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "moulvibazar",
+   "name_en": "Moulvibazar",
+   "name_bn": "মৌলভীবাজার",
+   "division_en": "Sylhet",
+   "division_bn": "সিলেট",
+   "lat": 24.4889,
+   "lon": 91.7708,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 27.1,
+     "feels": 30.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.9,
+     "feels": 30.2,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 27.8,
+     "feels": 31.0,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.6,
+     "feels": 29.9,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 29.2,
+     "feels": 30.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.5,
+     "feels": 31.7,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.7,
+     "feels": 30.7,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 28.5,
+     "feels": 30.3,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 28.2,
+     "feels": 30.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 28.2,
+     "feels": 30.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 27.2,
+     "feels": 29.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 26.3,
+     "feels": 27.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 26.1,
+     "feels": 27.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.4,
+     "feels": 26.7,
+     "humidity": 80,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "rangpur",
+   "name_en": "Rangpur",
+   "name_bn": "রংপুর",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.7466,
+   "lon": 89.2517,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 28.1,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.3,
+     "feels": 28.6,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.5,
+     "feels": 28.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 28.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.8,
+     "feels": 29.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.4,
+     "feels": 29.8,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.3,
+     "feels": 28.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.8,
+     "feels": 27.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.8,
+     "feels": 26.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.8,
+     "feels": 27.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.4,
+     "feels": 24.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.5,
+     "feels": 24.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.5,
+     "feels": 24.7,
+     "humidity": 76,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "gaibandha",
+   "name_en": "Gaibandha",
+   "name_bn": "গাইবান্ধা",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.3297,
+   "lon": 89.5435,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 27.7,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 28.4,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.6,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 30.0,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 30.0,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.8,
+     "feels": 30.1,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.7,
+     "feels": 28.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.7,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.7,
+     "feels": 29.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.3,
+     "feels": 28.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.0,
+     "feels": 26.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 24.3,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 24.7,
+     "humidity": 78,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "kurigram",
+   "name_en": "Kurigram",
+   "name_bn": "কুড়িগ্রাম",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.8116,
+   "lon": 89.6428,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.8,
+     "feels": 27.8,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.6,
+     "feels": 28.3,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.1,
+     "feels": 28.0,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.6,
+     "feels": 28.5,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.4,
+     "feels": 29.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.0,
+     "feels": 29.2,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.6,
+     "feels": 28.1,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.7,
+     "feels": 27.4,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.4,
+     "feels": 26.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.7,
+     "feels": 27.6,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.4,
+     "feels": 26.0,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.2,
+     "feels": 24.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.1,
+     "feels": 24.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.1,
+     "feels": 24.2,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "lalmonirhat",
+   "name_en": "Lalmonirhat",
+   "name_bn": "লালমনিরহাট",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.9172,
+   "lon": 89.4459,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 28.1,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.2,
+     "feels": 28.1,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 28.3,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 28.0,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.7,
+     "feels": 30.0,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.1,
+     "feels": 29.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.7,
+     "feels": 28.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.5,
+     "feels": 27.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.5,
+     "feels": 26.2,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 27.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 24.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 25.3,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 24.9,
+     "humidity": 78,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "nilphamari",
+   "name_en": "Nilphamari",
+   "name_bn": "নীলফামারী",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.9417,
+   "lon": 88.8467,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.2,
+     "feels": 28.3,
+     "humidity": 70,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.8,
+     "feels": 27.9,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.5,
+     "feels": 28.6,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 27.9,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.3,
+     "feels": 28.9,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.1,
+     "feels": 28.6,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.5,
+     "feels": 27.3,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.6,
+     "feels": 27.4,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.0,
+     "feels": 27.1,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.8,
+     "feels": 27.0,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.3,
+     "feels": 25.6,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.1,
+     "feels": 23.7,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.2,
+     "feels": 24.2,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.5,
+     "feels": 24.2,
+     "humidity": 75,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "dinajpur",
+   "name_en": "Dinajpur",
+   "name_bn": "দিনাজপুর",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.6274,
+   "lon": 88.6378,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.3,
+     "feels": 27.9,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.8,
+     "feels": 27.8,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.3,
+     "feels": 28.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.5,
+     "feels": 27.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.1,
+     "feels": 28.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.2,
+     "feels": 29.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.8,
+     "feels": 27.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.6,
+     "feels": 27.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.8,
+     "feels": 27.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.6,
+     "feels": 26.6,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.4,
+     "feels": 25.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.2,
+     "feels": 23.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.0,
+     "feels": 23.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.3,
+     "feels": 24.0,
+     "humidity": 77,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "panchagarh",
+   "name_en": "Panchagarh",
+   "name_bn": "পঞ্চগড়",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 26.3334,
+   "lon": 88.5578,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.0,
+     "feels": 27.9,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.8,
+     "feels": 27.9,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.2,
+     "feels": 28.8,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.7,
+     "feels": 28.5,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.3,
+     "feels": 28.4,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.1,
+     "feels": 28.8,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.5,
+     "feels": 27.2,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.6,
+     "feels": 27.7,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.3,
+     "feels": 27.7,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.8,
+     "feels": 27.0,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.1,
+     "feels": 25.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 23.9,
+     "feels": 23.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.0,
+     "feels": 24.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.7,
+     "feels": 24.3,
+     "humidity": 74,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "thakurgaon",
+   "name_en": "Thakurgaon",
+   "name_bn": "ঠাকুরগাঁও",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 26.031,
+   "lon": 88.4699,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.4,
+     "feels": 27.6,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.9,
+     "feels": 27.7,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 28.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.6,
+     "feels": 28.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 26.9,
+     "feels": 28.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.0,
+     "feels": 29.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.7,
+     "feels": 27.8,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.7,
+     "feels": 27.7,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.9,
+     "feels": 27.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.5,
+     "feels": 26.6,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 24.7,
+     "feels": 24.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 23.8,
+     "feels": 23.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 23.9,
+     "feels": 23.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.4,
+     "feels": 23.9,
+     "humidity": 78,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "mymensingh",
+   "name_en": "Mymensingh",
+   "name_bn": "ময়মনসিংহ",
+   "division_en": "Mymensingh",
+   "division_bn": "ময়মনসিংহ",
+   "lat": 24.7564,
+   "lon": 90.4065,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 29.1,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.0,
+     "feels": 28.9,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 29.6,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.4,
+     "feels": 30.3,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.0,
+     "feels": 30.9,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.1,
+     "feels": 30.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.2,
+     "feels": 28.6,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.5,
+     "feels": 28.9,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.2,
+     "feels": 29.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.0,
+     "feels": 29.0,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 28.1,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.1,
+     "feels": 26.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.9,
+     "feels": 25.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 25.0,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "jamalpur",
+   "name_en": "Jamalpur",
+   "name_bn": "জামালপুর",
+   "division_en": "Mymensingh",
+   "division_bn": "ময়মনসিংহ",
+   "lat": 24.9197,
+   "lon": 89.9481,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 28.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 28.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 29.5,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 30.1,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 30.2,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.1,
+     "feels": 30.9,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.0,
+     "feels": 28.2,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.5,
+     "feels": 29.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.0,
+     "feels": 29.5,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.8,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 25.1,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 24.8,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "sherpur",
+   "name_en": "Sherpur",
+   "name_bn": "শেরপুর",
+   "division_en": "Mymensingh",
+   "division_bn": "ময়মনসিংহ",
+   "lat": 25.0188,
+   "lon": 90.0175,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 25.9,
+     "feels": 28.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 25.7,
+     "feels": 28.3,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.4,
+     "feels": 29.4,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 26.9,
+     "feels": 30.1,
+     "humidity": 86,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 27.5,
+     "feels": 30.2,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.1,
+     "feels": 30.8,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.0,
+     "feels": 28.2,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.3,
+     "feels": 28.8,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.5,
+     "feels": 29.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.0,
+     "feels": 29.5,
+     "humidity": 85,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.8,
+     "feels": 26.8,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.6,
+     "feels": 25.1,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.4,
+     "feels": 24.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.2,
+     "feels": 24.8,
+     "humidity": 79,
+     "level": 0
+    }
+   ]
+  },
+  {
+   "id": "netrokona",
+   "name_en": "Netrokona",
+   "name_bn": "নেত্রকোণা",
+   "division_en": "Mymensingh",
+   "division_bn": "ময়মনসিংহ",
+   "lat": 24.8835,
+   "lon": 90.729,
+   "days": [
+    {
+     "date": "2026-11-25",
+     "tmax": 26.6,
+     "feels": 29.3,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-26",
+     "tmax": 26.4,
+     "feels": 29.4,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-11-27",
+     "tmax": 26.8,
+     "feels": 29.6,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-28",
+     "tmax": 27.8,
+     "feels": 30.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.1,
+     "feels": 30.5,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.5,
+     "feels": 30.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.6,
+     "feels": 29.9,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.9,
+     "feels": 29.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.6,
+     "feels": 28.5,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 27.7,
+     "feels": 29.5,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.7,
+     "feels": 28.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 25.7,
+     "feels": 27.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.6,
+     "feels": 26.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 24.8,
+     "feels": 26.7,
+     "humidity": 83,
+     "level": 0
+    }
+   ]
+  }
+ ]
+}
