@@ -1,0 +1,655 @@
+{
+ "count": 64,
+ "divisions": {
+  "Dhaka": 13,
+  "Chattogram": 11,
+  "Khulna": 10,
+  "Rajshahi": 8,
+  "Barishal": 6,
+  "Sylhet": 4,
+  "Rangpur": 8,
+  "Mymensingh": 4
+ },
+ "districts": [
+  {
+   "id": "dhaka",
+   "name_en": "Dhaka",
+   "name_bn": "ঢাকা",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.7104,
+   "lon": 90.4074,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "gazipur",
+   "name_en": "Gazipur",
+   "name_bn": "গাজীপুর",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.9984,
+   "lon": 90.4223,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "narayanganj",
+   "name_en": "Narayanganj",
+   "name_bn": "নারায়ণগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.6135,
+   "lon": 90.503,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "narsingdi",
+   "name_en": "Narsingdi",
+   "name_bn": "নরসিংদী",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.923,
+   "lon": 90.7177,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "manikganj",
+   "name_en": "Manikganj",
+   "name_bn": "মানিকগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.8577,
+   "lon": 90.0096,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "munshiganj",
+   "name_en": "Munshiganj",
+   "name_bn": "মুন্সীগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.5517,
+   "lon": 90.5346,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "tangail",
+   "name_en": "Tangail",
+   "name_bn": "টাঙ্গাইল",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 24.2498,
+   "lon": 89.9166,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "kishoreganj",
+   "name_en": "Kishoreganj",
+   "name_bn": "কিশোরগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 24.4394,
+   "lon": 90.7829,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "faridpur",
+   "name_en": "Faridpur",
+   "name_bn": "ফরিদপুর",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.6061,
+   "lon": 89.8406,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "rajbari",
+   "name_en": "Rajbari",
+   "name_bn": "রাজবাড়ী",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.7573,
+   "lon": 89.6463,
+   "coord_source": "geocoding-fix: district town candidate, Dhaka Division"
+  },
+  {
+   "id": "madaripur",
+   "name_en": "Madaripur",
+   "name_bn": "মাদারীপুর",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.171,
+   "lon": 90.2094,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "shariatpur",
+   "name_en": "Shariatpur",
+   "name_bn": "শরীয়তপুর",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.21,
+   "lon": 90.35,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "gopalganj",
+   "name_en": "Gopalganj",
+   "name_bn": "গোপালগঞ্জ",
+   "division_en": "Dhaka",
+   "division_bn": "ঢাকা",
+   "lat": 23.2235,
+   "lon": 90.0604,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "chattogram",
+   "name_en": "Chattogram",
+   "name_bn": "চট্টগ্রাম",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.3384,
+   "lon": 91.8317,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "cumilla",
+   "name_en": "Cumilla",
+   "name_bn": "কুমিল্লা",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.4619,
+   "lon": 91.185,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "chandpur",
+   "name_en": "Chandpur",
+   "name_bn": "চাঁদপুর",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.2271,
+   "lon": 90.6543,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "brahmanbaria",
+   "name_en": "Brahmanbaria",
+   "name_bn": "ব্রাহ্মণবাড়িয়া",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.9746,
+   "lon": 91.1123,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "noakhali",
+   "name_en": "Noakhali",
+   "name_bn": "নোয়াখালী",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.8667,
+   "lon": 91.1,
+   "coord_source": "geocoding-fix: Maijdee, the district HQ town"
+  },
+  {
+   "id": "lakshmipur",
+   "name_en": "Lakshmipur",
+   "name_bn": "লক্ষ্মীপুর",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.9443,
+   "lon": 90.83,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "feni",
+   "name_en": "Feni",
+   "name_bn": "ফেনী",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.0144,
+   "lon": 91.3966,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "coxs-bazar",
+   "name_en": "Cox's Bazar",
+   "name_bn": "কক্সবাজার",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 21.4397,
+   "lon": 92.0096,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "khagrachhari",
+   "name_en": "Khagrachhari",
+   "name_bn": "খাগড়াছড়ি",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 23.1079,
+   "lon": 91.9701,
+   "coord_source": "geocoding-fix: exact-spelling query, pop 50364"
+  },
+  {
+   "id": "rangamati",
+   "name_en": "Rangamati",
+   "name_bn": "রাঙ্গামাটি",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.6432,
+   "lon": 92.1919,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "bandarban",
+   "name_en": "Bandarban",
+   "name_bn": "বান্দরবান",
+   "division_en": "Chattogram",
+   "division_bn": "চট্টগ্রাম",
+   "lat": 22.1953,
+   "lon": 92.2195,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "khulna",
+   "name_en": "Khulna",
+   "name_bn": "খুলনা",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 22.8098,
+   "lon": 89.5644,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "bagerhat",
+   "name_en": "Bagerhat",
+   "name_bn": "বাগেরহাট",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 22.6566,
+   "lon": 89.7912,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "satkhira",
+   "name_en": "Satkhira",
+   "name_bn": "সাতক্ষীরা",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 22.7082,
+   "lon": 89.0718,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "jashore",
+   "name_en": "Jashore",
+   "name_bn": "যশোর",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.1697,
+   "lon": 89.2137,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "narail",
+   "name_en": "Narail",
+   "name_bn": "নড়াইল",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.1551,
+   "lon": 89.4951,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "magura",
+   "name_en": "Magura",
+   "name_bn": "মাগুরা",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.487,
+   "lon": 89.4159,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "jhenaidah",
+   "name_en": "Jhenaidah",
+   "name_bn": "ঝিনাইদহ",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.542,
+   "lon": 89.183,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "kushtia",
+   "name_en": "Kushtia",
+   "name_bn": "কুষ্টিয়া",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.9028,
+   "lon": 89.1194,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "chuadanga",
+   "name_en": "Chuadanga",
+   "name_bn": "চুয়াডাঙ্গা",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.5387,
+   "lon": 89.201,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "meherpur",
+   "name_en": "Meherpur",
+   "name_bn": "মেহেরপুর",
+   "division_en": "Khulna",
+   "division_bn": "খুলনা",
+   "lat": 23.7769,
+   "lon": 88.6303,
+   "coord_source": "geocoding-fix: district town candidate, Khulna Division"
+  },
+  {
+   "id": "rajshahi",
+   "name_en": "Rajshahi",
+   "name_bn": "রাজশাহী",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.374,
+   "lon": 88.6011,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "natore",
+   "name_en": "Natore",
+   "name_bn": "নাটোর",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.4111,
+   "lon": 88.9867,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "naogaon",
+   "name_en": "Naogaon",
+   "name_bn": "নওগাঁ",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.8042,
+   "lon": 88.9488,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "chapai-nawabganj",
+   "name_en": "Chapai Nawabganj",
+   "name_bn": "চাঁপাইনবাবগঞ্জ",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.5903,
+   "lon": 88.2744,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "pabna",
+   "name_en": "Pabna",
+   "name_bn": "পাবনা",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.0064,
+   "lon": 89.2372,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "sirajganj",
+   "name_en": "Sirajganj",
+   "name_bn": "সিরাজগঞ্জ",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.4577,
+   "lon": 89.708,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "bogura",
+   "name_en": "Bogura",
+   "name_bn": "বগুড়া",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 24.851,
+   "lon": 89.3711,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "joypurhat",
+   "name_en": "Joypurhat",
+   "name_bn": "জয়পুরহাট",
+   "division_en": "Rajshahi",
+   "division_bn": "রাজশাহী",
+   "lat": 25.0945,
+   "lon": 89.0229,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "barishal",
+   "name_en": "Barishal",
+   "name_bn": "বরিশাল",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.705,
+   "lon": 90.3701,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "pirojpur",
+   "name_en": "Pirojpur",
+   "name_bn": "পিরোজপুর",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.5797,
+   "lon": 89.9752,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "jhalokati",
+   "name_en": "Jhalokati",
+   "name_bn": "ঝালকাঠি",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.6426,
+   "lon": 90.2011,
+   "coord_source": "geocoding-fix: alternate spelling Jhalakati"
+  },
+  {
+   "id": "patuakhali",
+   "name_en": "Patuakhali",
+   "name_bn": "পটুয়াখালী",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.3683,
+   "lon": 90.3458,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "barguna",
+   "name_en": "Barguna",
+   "name_bn": "বরগুনা",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.1567,
+   "lon": 90.1176,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "bhola",
+   "name_en": "Bhola",
+   "name_bn": "ভোলা",
+   "division_en": "Barishal",
+   "division_bn": "বরিশাল",
+   "lat": 22.6876,
+   "lon": 90.644,
+   "coord_source": "geocoding-fix: Bhola town, not the island centroid"
+  },
+  {
+   "id": "sylhet",
+   "name_en": "Sylhet",
+   "name_bn": "সিলেট",
+   "division_en": "Sylhet",
+   "division_bn": "সিলেট",
+   "lat": 24.899,
+   "lon": 91.872,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "sunamganj",
+   "name_en": "Sunamganj",
+   "name_bn": "সুনামগঞ্জ",
+   "division_en": "Sylhet",
+   "division_bn": "সিলেট",
+   "lat": 25.0689,
+   "lon": 91.4024,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "habiganj",
+   "name_en": "Habiganj",
+   "name_bn": "হবিগঞ্জ",
+   "division_en": "Sylhet",
+   "division_bn": "সিলেট",
+   "lat": 24.3804,
+   "lon": 91.413,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "moulvibazar",
+   "name_en": "Moulvibazar",
+   "name_bn": "মৌলভীবাজার",
+   "division_en": "Sylhet",
+   "division_bn": "সিলেট",
+   "lat": 24.4889,
+   "lon": 91.7708,
+   "coord_source": "geocoding-fix: query 'Moulvi Bazar', pop 57441"
+  },
+  {
+   "id": "rangpur",
+   "name_en": "Rangpur",
+   "name_bn": "রংপুর",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.7466,
+   "lon": 89.2517,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "gaibandha",
+   "name_en": "Gaibandha",
+   "name_bn": "গাইবান্ধা",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.3297,
+   "lon": 89.5435,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "kurigram",
+   "name_en": "Kurigram",
+   "name_bn": "কুড়িগ্রাম",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.8116,
+   "lon": 89.6428,
+   "coord_source": "geocoding-fix: district town candidate, Rangpur Division"
+  },
+  {
+   "id": "lalmonirhat",
+   "name_en": "Lalmonirhat",
+   "name_bn": "লালমনিরহাট",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.9172,
+   "lon": 89.4459,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "nilphamari",
+   "name_en": "Nilphamari",
+   "name_bn": "নীলফামারী",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.9417,
+   "lon": 88.8467,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "dinajpur",
+   "name_en": "Dinajpur",
+   "name_bn": "দিনাজপুর",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 25.6274,
+   "lon": 88.6378,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "panchagarh",
+   "name_en": "Panchagarh",
+   "name_bn": "পঞ্চগড়",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 26.3334,
+   "lon": 88.5578,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "thakurgaon",
+   "name_en": "Thakurgaon",
+   "name_bn": "ঠাকুরগাঁও",
+   "division_en": "Rangpur",
+   "division_bn": "রংপুর",
+   "lat": 26.031,
+   "lon": 88.4699,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "mymensingh",
+   "name_en": "Mymensingh",
+   "name_bn": "ময়মনসিংহ",
+   "division_en": "Mymensingh",
+   "division_bn": "ময়মনসিংহ",
+   "lat": 24.7564,
+   "lon": 90.4065,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "jamalpur",
+   "name_en": "Jamalpur",
+   "name_bn": "জামালপুর",
+   "division_en": "Mymensingh",
+   "division_bn": "ময়মনসিংহ",
+   "lat": 24.9197,
+   "lon": 89.9481,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "sherpur",
+   "name_en": "Sherpur",
+   "name_bn": "শেরপুর",
+   "division_en": "Mymensingh",
+   "division_bn": "ময়মনসিংহ",
+   "lat": 25.0188,
+   "lon": 90.0175,
+   "coord_source": "geocoding: max population in BD"
+  },
+  {
+   "id": "netrokona",
+   "name_en": "Netrokona",
+   "name_bn": "নেত্রকোণা",
+   "division_en": "Mymensingh",
+   "division_bn": "ময়মনসিংহ",
+   "lat": 24.8835,
+   "lon": 90.729,
+   "coord_source": "geocoding-fix: alternate spelling Netrakona, PPLA2"
+  }
+ ]
+}
