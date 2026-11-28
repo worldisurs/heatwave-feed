@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T01:20:55+06:00",
+ "generated_at": "2026-11-28T07:40:39+06:00",
  "timezone": "Asia/Dhaka",
  "source": "Open-Meteo",
  "model": "ecmwf_ifs025",
@@ -16,100 +16,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 28.2,
-     "feels": 30.0,
-     "humidity": 77,
+     "tmax": 27.9,
+     "feels": 29.3,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.7,
-     "feels": 30.8,
-     "humidity": 75,
+     "tmax": 28.6,
+     "feels": 30.2,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 29.1,
-     "feels": 30.9,
+     "feels": 30.5,
      "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.8,
-     "feels": 28.5,
-     "humidity": 70,
+     "tmax": 27.7,
+     "feels": 28.7,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.3,
-     "feels": 27.3,
-     "humidity": 73,
+     "tmax": 26.2,
+     "feels": 26.9,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.5,
-     "feels": 27.9,
-     "humidity": 78,
+     "tmax": 26.2,
+     "feels": 28.1,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.7,
-     "feels": 28.7,
-     "humidity": 77,
+     "tmax": 26.5,
+     "feels": 28.3,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.9,
-     "feels": 27.6,
-     "humidity": 79,
+     "tmax": 25.8,
+     "feels": 27.2,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 25.2,
-     "feels": 26.2,
+     "feels": 26.1,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.1,
-     "feels": 26.0,
-     "humidity": 75,
+     "feels": 26.1,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.6,
-     "feels": 28.4,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 27.1,
-     "feels": 28.8,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 26.5,
-     "feels": 27.9,
+     "tmax": 25.7,
+     "feels": 27.3,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 26.2,
+     "feels": 27.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 26.7,
+     "feels": 28.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 25.4,
-     "feels": 24.5,
-     "humidity": 64,
+     "tmax": 25.8,
+     "feels": 28.7,
+     "humidity": 84,
      "level": 0
     }
    ]
@@ -126,99 +126,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 30.0,
-     "humidity": 80,
+     "feels": 29.4,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.5,
-     "feels": 30.5,
-     "humidity": 77,
+     "tmax": 28.2,
+     "feels": 29.9,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.7,
-     "feels": 30.8,
+     "feels": 30.3,
      "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.7,
-     "feels": 28.5,
-     "humidity": 71,
+     "tmax": 27.6,
+     "feels": 29.1,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.2,
-     "feels": 27.3,
-     "humidity": 76,
+     "tmax": 26.1,
+     "feels": 26.4,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.6,
-     "feels": 28.0,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 26.8,
-     "feels": 28.6,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 27.9,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-06",
-     "tmax": 25.0,
-     "feels": 26.1,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 24.7,
-     "feels": 26.4,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 26.7,
+     "tmax": 26.0,
      "feels": 28.0,
      "humidity": 79,
      "level": 0
     },
     {
-     "date": "2026-12-09",
-     "tmax": 26.5,
-     "feels": 28.4,
+     "date": "2026-12-04",
+     "tmax": 26.3,
+     "feels": 28.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.6,
+     "feels": 27.4,
      "humidity": 83,
      "level": 0
     },
     {
+     "date": "2026-12-06",
+     "tmax": 25.1,
+     "feels": 26.0,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.7,
+     "feels": 25.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.6,
+     "feels": 27.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 25.8,
+     "feels": 27.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 26.3,
-     "feels": 27.5,
-     "humidity": 76,
+     "tmax": 26.5,
+     "feels": 27.9,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.7,
-     "feels": 24.1,
-     "humidity": 68,
+     "tmax": 25.6,
+     "feels": 28.4,
+     "humidity": 86,
      "level": 0
     }
    ]
@@ -235,99 +235,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.2,
-     "feels": 30.0,
-     "humidity": 78,
+     "feels": 29.9,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.7,
-     "feels": 30.7,
-     "humidity": 76,
+     "tmax": 28.6,
+     "feels": 30.2,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.9,
-     "feels": 31.0,
-     "humidity": 76,
+     "feels": 30.7,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.9,
-     "feels": 28.7,
-     "humidity": 72,
+     "tmax": 28.0,
+     "feels": 29.0,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.6,
-     "feels": 26.5,
-     "humidity": 72,
+     "tmax": 26.5,
+     "feels": 26.6,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.5,
-     "feels": 27.7,
-     "humidity": 79,
+     "tmax": 26.2,
+     "feels": 28.3,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.7,
-     "feels": 28.3,
+     "tmax": 26.5,
+     "feels": 28.0,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.9,
-     "feels": 27.8,
+     "tmax": 25.8,
+     "feels": 27.0,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.2,
-     "feels": 26.6,
-     "humidity": 80,
+     "tmax": 25.3,
+     "feels": 26.5,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.2,
-     "feels": 25.8,
-     "humidity": 77,
+     "tmax": 24.9,
+     "feels": 26.0,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.6,
-     "feels": 28.5,
-     "humidity": 77,
+     "tmax": 25.8,
+     "feels": 27.5,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.4,
-     "feels": 29.2,
-     "humidity": 81,
+     "tmax": 26.3,
+     "feels": 27.6,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 26.8,
-     "feels": 28.6,
+     "tmax": 26.7,
+     "feels": 28.1,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.2,
-     "feels": 24.7,
-     "humidity": 70,
+     "tmax": 26.3,
+     "feels": 28.9,
+     "humidity": 84,
      "level": 0
     }
    ]
@@ -344,99 +344,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 30.0,
-     "humidity": 81,
+     "feels": 29.4,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.3,
-     "humidity": 79,
+     "tmax": 28.2,
+     "feels": 30.0,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.7,
-     "feels": 30.8,
+     "feels": 31.0,
      "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.0,
-     "feels": 28.9,
-     "humidity": 71,
+     "tmax": 27.4,
+     "feels": 28.7,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.2,
-     "feels": 27.6,
-     "humidity": 76,
+     "tmax": 26.1,
+     "feels": 26.7,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.6,
-     "feels": 28.0,
-     "humidity": 82,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 26.8,
-     "feels": 28.9,
-     "humidity": 83,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 26.0,
-     "feels": 28.5,
+     "tmax": 26.3,
+     "feels": 28.6,
      "humidity": 81,
      "level": 0
     },
     {
+     "date": "2026-12-04",
+     "tmax": 26.6,
+     "feels": 28.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.7,
+     "feels": 27.8,
+     "humidity": 84,
+     "level": 0
+    },
+    {
      "date": "2026-12-06",
-     "tmax": 25.1,
-     "feels": 26.2,
+     "tmax": 24.9,
+     "feels": 26.4,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.8,
-     "feels": 26.1,
+     "tmax": 24.5,
+     "feels": 25.7,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.5,
-     "feels": 27.8,
+     "tmax": 25.4,
+     "feels": 27.2,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.5,
-     "feels": 28.2,
-     "humidity": 84,
+     "tmax": 25.6,
+     "feels": 27.1,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 26.4,
+     "tmax": 26.3,
      "feels": 27.9,
-     "humidity": 79,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.8,
-     "feels": 24.4,
-     "humidity": 73,
+     "tmax": 25.7,
+     "feels": 28.4,
+     "humidity": 89,
      "level": 0
     }
    ]
@@ -453,99 +453,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.5,
-     "feels": 29.6,
-     "humidity": 79,
+     "feels": 28.9,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.7,
-     "feels": 30.4,
+     "tmax": 27.9,
+     "feels": 29.9,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 27.9,
-     "feels": 30.2,
+     "tmax": 27.6,
+     "feels": 30.0,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 26.9,
-     "feels": 28.0,
-     "humidity": 75,
+     "tmax": 27.0,
+     "feels": 28.6,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.4,
-     "feels": 26.2,
-     "humidity": 76,
+     "tmax": 25.5,
+     "feels": 25.1,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.5,
-     "feels": 26.8,
+     "tmax": 25.2,
+     "feels": 26.9,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 25.7,
-     "feels": 27.6,
-     "humidity": 84,
+     "tmax": 25.5,
+     "feels": 27.1,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 24.9,
-     "feels": 26.5,
+     "tmax": 24.8,
+     "feels": 26.2,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.2,
-     "feels": 25.5,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 23.9,
-     "feels": 25.2,
+     "tmax": 24.0,
+     "feels": 25.1,
      "humidity": 82,
      "level": 0
     },
     {
-     "date": "2026-12-08",
-     "tmax": 25.9,
-     "feels": 27.9,
+     "date": "2026-12-07",
+     "tmax": 23.7,
+     "feels": 24.9,
      "humidity": 83,
      "level": 0
     },
     {
-     "date": "2026-12-09",
-     "tmax": 25.9,
-     "feels": 28.9,
+     "date": "2026-12-08",
+     "tmax": 25.0,
+     "feels": 27.0,
      "humidity": 85,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 25.0,
+     "feels": 27.3,
+     "humidity": 83,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 25.8,
-     "feels": 27.8,
-     "humidity": 80,
+     "tmax": 25.5,
+     "feels": 27.5,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.7,
-     "feels": 23.0,
-     "humidity": 68,
+     "tmax": 26.1,
+     "feels": 27.9,
+     "humidity": 86,
      "level": 0
     }
    ]
@@ -562,99 +562,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.3,
-     "feels": 30.1,
-     "humidity": 78,
+     "feels": 29.9,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.8,
-     "feels": 30.8,
-     "humidity": 76,
+     "tmax": 28.7,
+     "feels": 30.2,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.9,
-     "feels": 31.1,
-     "humidity": 76,
+     "feels": 30.8,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.9,
-     "feels": 28.7,
-     "humidity": 72,
+     "tmax": 28.1,
+     "feels": 29.1,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.7,
-     "feels": 26.6,
-     "humidity": 72,
+     "tmax": 26.6,
+     "feels": 26.7,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.6,
-     "feels": 27.8,
-     "humidity": 79,
+     "tmax": 26.3,
+     "feels": 28.3,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.8,
-     "feels": 28.4,
+     "tmax": 26.6,
+     "feels": 28.0,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.0,
-     "feels": 27.9,
+     "tmax": 25.9,
+     "feels": 27.1,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 25.3,
-     "feels": 26.6,
-     "humidity": 80,
+     "feels": 26.5,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.2,
-     "feels": 25.9,
-     "humidity": 77,
+     "tmax": 25.0,
+     "feels": 26.1,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 28.6,
-     "humidity": 77,
+     "tmax": 25.8,
+     "feels": 27.6,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.5,
-     "feels": 29.3,
-     "humidity": 81,
+     "tmax": 26.3,
+     "feels": 27.6,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-10",
      "tmax": 26.8,
-     "feels": 28.6,
+     "feels": 28.1,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.2,
-     "feels": 24.7,
-     "humidity": 70,
+     "tmax": 26.4,
+     "feels": 29.0,
+     "humidity": 84,
      "level": 0
     }
    ]
@@ -670,100 +670,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 28.0,
-     "feels": 29.9,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
-     "tmax": 28.5,
-     "feels": 30.5,
+     "tmax": 27.8,
+     "feels": 29.4,
      "humidity": 77,
      "level": 0
     },
     {
-     "date": "2026-11-30",
+     "date": "2026-11-29",
      "tmax": 28.4,
-     "feels": 29.6,
+     "feels": 30.2,
      "humidity": 75,
      "level": 0
     },
     {
+     "date": "2026-11-30",
+     "tmax": 28.2,
+     "feels": 30.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
      "date": "2026-12-01",
-     "tmax": 26.9,
-     "feels": 28.0,
+     "tmax": 27.6,
+     "feels": 28.3,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.7,
-     "feels": 26.7,
-     "humidity": 77,
+     "tmax": 25.8,
+     "feels": 25.6,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.3,
+     "tmax": 26.0,
      "feels": 27.8,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.5,
-     "feels": 27.8,
+     "tmax": 26.3,
+     "feels": 27.5,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.0,
-     "feels": 27.3,
-     "humidity": 82,
+     "tmax": 25.6,
+     "feels": 26.6,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.5,
-     "feels": 25.3,
+     "tmax": 24.3,
+     "feels": 24.8,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.7,
-     "feels": 25.3,
-     "humidity": 79,
+     "tmax": 24.5,
+     "feels": 25.1,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.2,
-     "feels": 27.8,
-     "humidity": 83,
+     "tmax": 25.3,
+     "feels": 26.6,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.5,
-     "feels": 28.0,
+     "tmax": 25.6,
+     "feels": 27.3,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.8,
-     "feels": 26.5,
-     "humidity": 75,
+     "tmax": 26.0,
+     "feels": 27.9,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.2,
-     "feels": 22.7,
-     "humidity": 69,
+     "tmax": 25.0,
+     "feels": 27.5,
+     "humidity": 82,
      "level": 0
     }
    ]
@@ -780,99 +780,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 30.3,
-     "humidity": 80,
+     "feels": 29.5,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.4,
-     "humidity": 76,
+     "tmax": 28.2,
+     "feels": 29.9,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.5,
-     "feels": 30.7,
-     "humidity": 72,
+     "tmax": 28.2,
+     "feels": 30.5,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.7,
-     "feels": 28.1,
-     "humidity": 69,
+     "tmax": 27.4,
+     "feels": 28.5,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.2,
-     "feels": 27.6,
-     "humidity": 75,
+     "tmax": 26.1,
+     "feels": 27.1,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.9,
-     "feels": 28.6,
-     "humidity": 80,
+     "tmax": 26.6,
+     "feels": 28.3,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.1,
+     "tmax": 26.9,
      "feels": 28.9,
-     "humidity": 81,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.0,
-     "feels": 28.0,
+     "tmax": 25.9,
+     "feels": 27.8,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.8,
-     "feels": 26.2,
-     "humidity": 81,
+     "tmax": 24.9,
+     "feels": 26.1,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.3,
-     "feels": 24.9,
+     "tmax": 24.0,
+     "feels": 24.7,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 25.5,
-     "feels": 26.4,
-     "humidity": 81,
+     "tmax": 24.9,
+     "feels": 26.6,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.0,
-     "feels": 27.9,
-     "humidity": 82,
+     "tmax": 25.1,
+     "feels": 26.0,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.6,
-     "feels": 25.7,
-     "humidity": 73,
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.5,
-     "feels": 23.8,
-     "humidity": 71,
+     "tmax": 24.7,
+     "feels": 27.0,
+     "humidity": 86,
      "level": 0
     }
    ]
@@ -889,99 +889,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 29.8,
-     "humidity": 77,
+     "feels": 29.1,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.0,
+     "tmax": 28.2,
      "feels": 30.0,
-     "humidity": 77,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.2,
-     "feels": 30.1,
-     "humidity": 77,
+     "feels": 29.9,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.4,
-     "feels": 28.5,
-     "humidity": 73,
+     "tmax": 27.6,
+     "feels": 28.7,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.9,
+     "tmax": 26.3,
      "feels": 26.0,
-     "humidity": 71,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-03",
      "tmax": 25.8,
      "feels": 27.0,
-     "humidity": 76,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
+     "tmax": 26.1,
      "feels": 27.7,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.6,
-     "humidity": 83,
+     "tmax": 25.6,
+     "feels": 27.0,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.0,
-     "feels": 26.2,
-     "humidity": 79,
+     "tmax": 24.8,
+     "feels": 25.9,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.2,
-     "feels": 26.6,
-     "humidity": 77,
+     "tmax": 25.0,
+     "feels": 26.4,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 27.2,
-     "feels": 28.9,
+     "tmax": 26.1,
+     "feels": 27.6,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.5,
-     "feels": 29.7,
-     "humidity": 83,
+     "tmax": 26.1,
+     "feels": 28.4,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-10",
      "tmax": 26.8,
-     "feels": 28.5,
+     "feels": 28.9,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.7,
-     "feels": 23.7,
-     "humidity": 70,
+     "tmax": 27.4,
+     "feels": 28.0,
+     "humidity": 80,
      "level": 0
     }
    ]
@@ -998,35 +998,35 @@
     {
      "date": "2026-11-28",
      "tmax": 27.2,
-     "feels": 29.3,
+     "feels": 28.7,
      "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.7,
+     "tmax": 27.6,
      "feels": 29.5,
-     "humidity": 77,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 27.9,
+     "tmax": 27.6,
      "feels": 29.5,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 26.9,
-     "feels": 27.6,
-     "humidity": 74,
+     "tmax": 26.8,
+     "feels": 28.3,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.6,
-     "feels": 26.0,
+     "tmax": 25.8,
+     "feels": 25.6,
      "humidity": 72,
      "level": 0
     },
@@ -1034,19 +1034,19 @@
      "date": "2026-12-03",
      "tmax": 25.5,
      "feels": 26.7,
-     "humidity": 76,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 27.1,
+     "tmax": 25.8,
+     "feels": 26.8,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.4,
+     "tmax": 25.3,
      "feels": 26.5,
      "humidity": 82,
      "level": 0
@@ -1054,43 +1054,43 @@
     {
      "date": "2026-12-06",
      "tmax": 24.5,
-     "feels": 25.8,
-     "humidity": 79,
+     "feels": 25.3,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 24.7,
-     "feels": 25.9,
+     "feels": 26.0,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.4,
-     "feels": 28.5,
-     "humidity": 83,
+     "tmax": 25.5,
+     "feels": 27.3,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.4,
-     "feels": 29.2,
-     "humidity": 83,
+     "tmax": 25.5,
+     "feels": 27.6,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 26.0,
-     "feels": 27.5,
-     "humidity": 78,
+     "tmax": 26.5,
+     "feels": 28.5,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.2,
-     "feels": 23.2,
-     "humidity": 67,
+     "tmax": 26.8,
+     "feels": 27.7,
+     "humidity": 81,
      "level": 0
     }
    ]
@@ -1106,100 +1106,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.8,
-     "feels": 30.0,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
      "tmax": 28.0,
-     "feels": 30.6,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 28.4,
-     "feels": 30.6,
+     "feels": 29.7,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-11-29",
+     "tmax": 28.2,
+     "feels": 30.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.9,
+     "feels": 30.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
      "date": "2026-12-01",
-     "tmax": 27.4,
-     "feels": 28.6,
-     "humidity": 74,
+     "tmax": 27.3,
+     "feels": 29.2,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.2,
-     "feels": 26.5,
-     "humidity": 72,
+     "tmax": 26.1,
+     "feels": 26.0,
+     "humidity": 69,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.8,
+     "tmax": 25.5,
      "feels": 27.5,
-     "humidity": 79,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.3,
-     "feels": 28.0,
-     "humidity": 81,
+     "tmax": 25.8,
+     "feels": 27.6,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 27.2,
+     "tmax": 25.4,
+     "feels": 27.3,
      "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.0,
-     "feels": 26.8,
+     "tmax": 25.1,
+     "feels": 26.4,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.0,
+     "tmax": 24.7,
      "feels": 26.5,
-     "humidity": 76,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 28.9,
+     "tmax": 25.6,
+     "feels": 27.7,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.2,
-     "feels": 29.3,
-     "humidity": 83,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 26.6,
-     "feels": 28.9,
+     "tmax": 26.1,
+     "feels": 28.0,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-10",
+     "tmax": 26.3,
+     "feels": 28.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 24.7,
-     "feels": 25.0,
-     "humidity": 74,
+     "tmax": 26.6,
+     "feels": 29.0,
+     "humidity": 84,
      "level": 0
     }
    ]
@@ -1215,100 +1215,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.8,
-     "feels": 30.0,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
      "tmax": 28.1,
-     "feels": 30.6,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 28.5,
-     "feels": 30.6,
+     "feels": 29.7,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-11-29",
+     "tmax": 28.2,
+     "feels": 30.3,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.0,
+     "feels": 30.2,
+     "humidity": 78,
+     "level": 0
+    },
+    {
      "date": "2026-12-01",
-     "tmax": 27.5,
-     "feels": 28.6,
-     "humidity": 74,
+     "tmax": 27.4,
+     "feels": 29.2,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.2,
-     "feels": 26.5,
-     "humidity": 72,
+     "tmax": 26.1,
+     "feels": 26.0,
+     "humidity": 69,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.9,
-     "feels": 27.6,
-     "humidity": 79,
+     "tmax": 25.6,
+     "feels": 27.5,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.3,
-     "feels": 28.0,
-     "humidity": 81,
+     "tmax": 25.9,
+     "feels": 27.7,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 27.2,
+     "tmax": 25.4,
+     "feels": 27.3,
      "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 25.1,
-     "feels": 26.8,
+     "feels": 26.4,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.0,
+     "tmax": 24.8,
      "feels": 26.5,
-     "humidity": 76,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 28.9,
+     "tmax": 25.6,
+     "feels": 27.7,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.3,
-     "feels": 29.3,
-     "humidity": 83,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 26.6,
-     "feels": 28.9,
+     "tmax": 26.1,
+     "feels": 28.0,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-10",
+     "tmax": 26.3,
+     "feels": 28.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 24.8,
-     "feels": 25.0,
-     "humidity": 74,
+     "tmax": 26.7,
+     "feels": 29.0,
+     "humidity": 84,
      "level": 0
     }
    ]
@@ -1325,99 +1325,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 29.8,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.1,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 28.5,
-     "feels": 30.4,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 27.7,
-     "feels": 28.8,
+     "feels": 29.4,
      "humidity": 75,
      "level": 0
     },
     {
+     "date": "2026-11-29",
+     "tmax": 28.2,
+     "feels": 30.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.2,
+     "feels": 30.0,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 27.6,
+     "feels": 28.7,
+     "humidity": 74,
+     "level": 0
+    },
+    {
      "date": "2026-12-02",
-     "tmax": 26.5,
-     "feels": 26.2,
+     "tmax": 26.4,
+     "feels": 26.3,
      "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.9,
+     "tmax": 25.6,
      "feels": 27.2,
-     "humidity": 75,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.3,
-     "feels": 28.2,
+     "tmax": 26.1,
+     "feels": 27.8,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 27.1,
+     "tmax": 25.7,
+     "feels": 27.4,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.3,
-     "feels": 26.8,
-     "humidity": 80,
+     "tmax": 25.4,
+     "feels": 26.4,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.3,
-     "feels": 26.4,
-     "humidity": 76,
+     "feels": 26.2,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 27.0,
-     "feels": 29.5,
-     "humidity": 82,
+     "tmax": 26.1,
+     "feels": 28.3,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.8,
-     "feels": 29.8,
-     "humidity": 83,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 26.9,
-     "feels": 28.7,
+     "tmax": 26.1,
+     "feels": 28.3,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-10",
+     "tmax": 26.8,
+     "feels": 29.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 25.3,
-     "feels": 25.1,
-     "humidity": 74,
+     "tmax": 27.2,
+     "feels": 28.9,
+     "humidity": 82,
      "level": 0
     }
    ]
@@ -1433,100 +1433,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 28.5,
-     "feels": 32.1,
+     "tmax": 28.8,
+     "feels": 32.5,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.5,
+     "tmax": 28.7,
      "feels": 32.8,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.9,
-     "feels": 32.9,
-     "humidity": 79,
+     "tmax": 28.4,
+     "feels": 32.0,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.4,
-     "feels": 31.4,
-     "humidity": 75,
+     "tmax": 29.1,
+     "feels": 31.2,
+     "humidity": 69,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.9,
-     "feels": 27.1,
-     "humidity": 68,
+     "tmax": 27.6,
+     "feels": 27.6,
+     "humidity": 66,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.8,
-     "feels": 28.5,
-     "humidity": 78,
+     "tmax": 26.0,
+     "feels": 28.0,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.5,
-     "feels": 30.1,
-     "humidity": 79,
+     "tmax": 26.8,
+     "feels": 29.1,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.5,
-     "feels": 29.0,
-     "humidity": 79,
+     "tmax": 25.6,
+     "feels": 27.8,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 24.8,
-     "feels": 26.7,
-     "humidity": 80,
+     "feels": 27.2,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.5,
-     "feels": 26.5,
+     "feels": 25.9,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.9,
-     "feels": 27.3,
-     "humidity": 74,
+     "tmax": 26.3,
+     "feels": 26.7,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.5,
-     "feels": 28.8,
-     "humidity": 74,
+     "tmax": 26.8,
+     "feels": 26.9,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.6,
-     "feels": 28.2,
-     "humidity": 71,
+     "tmax": 26.8,
+     "feels": 27.5,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 26.5,
-     "feels": 25.6,
-     "humidity": 64,
+     "tmax": 25.9,
+     "feels": 27.9,
+     "humidity": 82,
      "level": 0
     }
    ]
@@ -1543,99 +1543,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.1,
-     "feels": 29.8,
-     "humidity": 79,
+     "feels": 30.1,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.9,
-     "feels": 31.4,
-     "humidity": 77,
+     "tmax": 28.3,
+     "feels": 30.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 29.0,
-     "feels": 31.5,
-     "humidity": 77,
+     "feels": 30.8,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.3,
+     "tmax": 28.4,
      "feels": 30.0,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.8,
-     "feels": 27.7,
-     "humidity": 74,
+     "tmax": 26.7,
+     "feels": 27.5,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.7,
-     "feels": 28.1,
-     "humidity": 82,
+     "tmax": 26.4,
+     "feels": 28.6,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.4,
-     "feels": 29.4,
-     "humidity": 82,
+     "tmax": 26.7,
+     "feels": 28.9,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.3,
-     "feels": 28.6,
-     "humidity": 82,
+     "tmax": 26.0,
+     "feels": 28.3,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.4,
-     "feels": 27.1,
-     "humidity": 81,
+     "tmax": 25.2,
+     "feels": 26.5,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.3,
-     "feels": 26.4,
-     "humidity": 78,
+     "tmax": 24.8,
+     "feels": 25.8,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.3,
-     "feels": 28.4,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 27.1,
-     "feels": 29.3,
-     "humidity": 82,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 27.2,
-     "feels": 28.5,
+     "tmax": 25.4,
+     "feels": 27.1,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 25.9,
+     "feels": 26.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 26.1,
+     "feels": 28.1,
+     "humidity": 80,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 25.6,
-     "feels": 25.7,
-     "humidity": 72,
+     "tmax": 25.7,
+     "feels": 27.9,
+     "humidity": 85,
      "level": 0
     }
    ]
@@ -1652,99 +1652,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.3,
-     "feels": 30.2,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
-     "tmax": 29.0,
-     "feels": 31.2,
+     "feels": 29.8,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-11-29",
+     "tmax": 28.7,
+     "feels": 30.5,
+     "humidity": 76,
+     "level": 0
+    },
+    {
      "date": "2026-11-30",
-     "tmax": 28.9,
-     "feels": 30.9,
+     "tmax": 29.2,
+     "feels": 31.1,
      "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.2,
-     "feels": 29.1,
-     "humidity": 72,
+     "tmax": 28.3,
+     "feels": 29.7,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.7,
-     "feels": 27.1,
-     "humidity": 72,
+     "tmax": 26.6,
+     "feels": 27.0,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.6,
-     "feels": 27.7,
-     "humidity": 80,
+     "tmax": 26.3,
+     "feels": 28.1,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.0,
-     "feels": 28.7,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 26.0,
+     "tmax": 26.6,
      "feels": 28.2,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-05",
+     "tmax": 25.9,
+     "feels": 27.5,
+     "humidity": 83,
+     "level": 0
+    },
+    {
      "date": "2026-12-06",
      "tmax": 25.3,
-     "feels": 26.6,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 25.2,
-     "feels": 26.2,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 29.0,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 27.7,
-     "feels": 29.7,
+     "feels": 26.9,
      "humidity": 81,
      "level": 0
     },
     {
+     "date": "2026-12-07",
+     "tmax": 25.0,
+     "feels": 26.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.8,
+     "feels": 28.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 26.3,
+     "feels": 27.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 27.1,
-     "feels": 29.0,
+     "tmax": 26.3,
+     "feels": 28.2,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.5,
-     "feels": 25.2,
-     "humidity": 71,
+     "tmax": 26.4,
+     "feels": 29.1,
+     "humidity": 84,
      "level": 0
     }
    ]
@@ -1760,100 +1760,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 28.0,
-     "feels": 29.2,
-     "humidity": 78,
+     "tmax": 27.8,
+     "feels": 28.9,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.5,
-     "feels": 30.2,
-     "humidity": 76,
+     "tmax": 28.4,
+     "feels": 30.0,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.7,
-     "feels": 30.8,
-     "humidity": 75,
+     "feels": 31.1,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.9,
+     "tmax": 27.8,
      "feels": 28.8,
-     "humidity": 71,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.2,
-     "feels": 27.3,
+     "tmax": 25.8,
+     "feels": 26.9,
      "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.3,
-     "feels": 28.1,
-     "humidity": 82,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 26.5,
+     "tmax": 26.0,
      "feels": 28.3,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-04",
+     "tmax": 26.1,
+     "feels": 28.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 28.1,
-     "humidity": 82,
+     "tmax": 25.4,
+     "feels": 27.9,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.8,
+     "tmax": 24.6,
      "feels": 26.2,
-     "humidity": 82,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.2,
-     "feels": 25.6,
-     "humidity": 80,
+     "tmax": 24.0,
+     "feels": 25.2,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 25.4,
-     "feels": 26.9,
-     "humidity": 83,
+     "tmax": 24.8,
+     "feels": 26.5,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.0,
-     "feels": 28.2,
-     "humidity": 83,
+     "tmax": 25.1,
+     "feels": 26.8,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.8,
-     "feels": 27.4,
-     "humidity": 79,
+     "tmax": 25.5,
+     "feels": 27.2,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.5,
-     "feels": 24.8,
-     "humidity": 73,
+     "tmax": 24.9,
+     "feels": 27.5,
+     "humidity": 88,
      "level": 0
     }
    ]
@@ -1869,100 +1869,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 29.3,
-     "feels": 31.2,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
-     "tmax": 29.8,
-     "feels": 32.7,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 29.7,
-     "feels": 31.8,
+     "tmax": 29.1,
+     "feels": 30.8,
      "humidity": 73,
      "level": 0
     },
     {
+     "date": "2026-11-29",
+     "tmax": 29.7,
+     "feels": 32.6,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 29.5,
+     "feels": 32.1,
+     "humidity": 74,
+     "level": 0
+    },
+    {
      "date": "2026-12-01",
-     "tmax": 29.2,
-     "feels": 30.6,
-     "humidity": 68,
+     "tmax": 29.1,
+     "feels": 30.0,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.5,
+     "tmax": 27.6,
      "feels": 27.8,
      "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 27.1,
-     "feels": 28.5,
-     "humidity": 79,
+     "tmax": 26.3,
+     "feels": 28.7,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.6,
-     "feels": 29.5,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 26.5,
-     "feels": 28.5,
+     "tmax": 27.1,
+     "feels": 29.0,
      "humidity": 81,
      "level": 0
     },
     {
+     "date": "2026-12-05",
+     "tmax": 26.2,
+     "feels": 28.2,
+     "humidity": 83,
+     "level": 0
+    },
+    {
      "date": "2026-12-06",
-     "tmax": 25.8,
-     "feels": 27.1,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 26.0,
-     "feels": 26.5,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 27.2,
-     "feels": 29.3,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 28.0,
-     "feels": 30.7,
+     "tmax": 25.4,
+     "feels": 27.3,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-07",
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 26.6,
+     "feels": 28.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 27.4,
+     "feels": 27.9,
+     "humidity": 77,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 28.1,
-     "feels": 29.6,
+     "tmax": 27.3,
+     "feels": 29.0,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 26.8,
-     "feels": 26.7,
-     "humidity": 70,
+     "tmax": 26.7,
+     "feels": 29.2,
+     "humidity": 87,
      "level": 0
     }
    ]
@@ -1979,99 +1979,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.6,
-     "feels": 30.5,
-     "humidity": 78,
+     "feels": 30.2,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 29.3,
-     "feels": 31.6,
+     "tmax": 29.2,
+     "feels": 31.3,
      "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 29.0,
-     "feels": 30.9,
+     "tmax": 29.5,
+     "feels": 31.2,
      "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.7,
-     "feels": 29.7,
-     "humidity": 70,
+     "tmax": 28.9,
+     "feels": 30.0,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.7,
-     "feels": 26.8,
+     "tmax": 26.9,
+     "feels": 27.4,
      "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.9,
-     "feels": 27.7,
-     "humidity": 78,
+     "tmax": 26.3,
+     "feels": 28.3,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.3,
-     "feels": 29.0,
-     "humidity": 80,
+     "tmax": 26.6,
+     "feels": 28.2,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.0,
-     "feels": 28.0,
-     "humidity": 79,
+     "tmax": 26.2,
+     "feels": 27.8,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.6,
-     "feels": 26.8,
-     "humidity": 79,
+     "tmax": 25.4,
+     "feels": 26.9,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.5,
-     "feels": 26.5,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 28.6,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 27.8,
-     "feels": 30.1,
+     "tmax": 25.3,
+     "feels": 26.2,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-08",
+     "tmax": 26.1,
+     "feels": 27.7,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 26.6,
+     "feels": 27.6,
+     "humidity": 80,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 27.6,
-     "feels": 29.3,
+     "tmax": 26.8,
+     "feels": 28.5,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 26.0,
-     "feels": 26.0,
-     "humidity": 68,
+     "tmax": 26.4,
+     "feels": 29.2,
+     "humidity": 83,
      "level": 0
     }
    ]
@@ -2088,99 +2088,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.9,
-     "feels": 31.6,
-     "humidity": 77,
+     "feels": 32.1,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 29.1,
-     "feels": 32.8,
+     "tmax": 29.0,
+     "feels": 32.4,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 29.3,
-     "feels": 32.4,
-     "humidity": 75,
+     "feels": 32.3,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.8,
-     "feels": 31.1,
-     "humidity": 71,
+     "tmax": 28.9,
+     "feels": 30.8,
+     "humidity": 69,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.0,
-     "feels": 27.6,
-     "humidity": 70,
+     "tmax": 27.4,
+     "feels": 27.8,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.9,
-     "feels": 28.7,
-     "humidity": 80,
+     "tmax": 26.6,
+     "feels": 28.9,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.9,
-     "feels": 30.0,
-     "humidity": 81,
+     "tmax": 26.9,
+     "feels": 28.9,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.8,
-     "feels": 28.6,
+     "tmax": 26.0,
+     "feels": 28.2,
      "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.4,
-     "feels": 27.0,
-     "humidity": 80,
+     "tmax": 25.2,
+     "feels": 27.1,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.3,
-     "feels": 26.2,
-     "humidity": 77,
+     "tmax": 25.1,
+     "feels": 26.0,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.8,
-     "feels": 28.4,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 27.6,
-     "feels": 29.8,
+     "tmax": 25.9,
+     "feels": 27.0,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 26.4,
+     "feels": 27.0,
+     "humidity": 76,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 27.4,
-     "feels": 28.4,
-     "humidity": 73,
+     "tmax": 26.6,
+     "feels": 27.6,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 26.3,
-     "feels": 26.2,
-     "humidity": 67,
+     "tmax": 26.2,
+     "feels": 28.6,
+     "humidity": 83,
      "level": 0
     }
    ]
@@ -2196,100 +2196,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 29.6,
-     "feels": 33.1,
+     "tmax": 29.8,
+     "feels": 33.6,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 30.6,
-     "feels": 34.3,
+     "tmax": 30.5,
+     "feels": 34.0,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 30.7,
-     "feels": 34.1,
-     "humidity": 75,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 29.8,
-     "feels": 32.6,
+     "tmax": 30.2,
+     "feels": 33.2,
      "humidity": 77,
      "level": 0
     },
     {
-     "date": "2026-12-02",
-     "tmax": 28.0,
-     "feels": 29.1,
-     "humidity": 72,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 26.7,
-     "feels": 29.2,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 28.6,
-     "feels": 31.5,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 27.5,
-     "feels": 30.2,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-06",
-     "tmax": 25.8,
-     "feels": 27.1,
+     "date": "2026-12-01",
+     "tmax": 29.6,
+     "feels": 32.8,
      "humidity": 78,
      "level": 0
     },
     {
+     "date": "2026-12-02",
+     "tmax": 28.4,
+     "feels": 29.4,
+     "humidity": 69,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.6,
+     "feels": 28.0,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 28.4,
+     "feels": 30.5,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 27.2,
+     "feels": 29.4,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 26.1,
+     "feels": 27.6,
+     "humidity": 79,
+     "level": 0
+    },
+    {
      "date": "2026-12-07",
-     "tmax": 26.5,
-     "feels": 26.9,
-     "humidity": 74,
+     "tmax": 26.3,
+     "feels": 26.5,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 28.2,
-     "feels": 27.7,
-     "humidity": 71,
+     "tmax": 26.9,
+     "feels": 26.7,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.8,
-     "feels": 28.9,
-     "humidity": 74,
+     "tmax": 27.6,
+     "feels": 27.2,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 28.1,
-     "feels": 28.4,
-     "humidity": 73,
+     "tmax": 27.6,
+     "feels": 27.6,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 27.8,
-     "feels": 25.7,
-     "humidity": 60,
+     "tmax": 27.6,
+     "feels": 28.3,
+     "humidity": 77,
      "level": 0
     }
    ]
@@ -2305,100 +2305,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 29.1,
-     "feels": 32.4,
-     "humidity": 77,
+     "tmax": 29.4,
+     "feels": 32.5,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 30.1,
-     "feels": 33.4,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 30.3,
-     "feels": 33.5,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 28.8,
-     "feels": 32.4,
-     "humidity": 75,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 26.8,
-     "feels": 28.1,
-     "humidity": 72,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 27.2,
-     "feels": 30.2,
+     "tmax": 30.0,
+     "feels": 33.1,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-11-30",
+     "tmax": 29.8,
+     "feels": 33.7,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 28.9,
+     "feels": 31.2,
+     "humidity": 67,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 27.2,
+     "feels": 27.5,
+     "humidity": 67,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 26.9,
+     "feels": 29.5,
+     "humidity": 76,
+     "level": 0
+    },
+    {
      "date": "2026-12-04",
-     "tmax": 28.1,
-     "feels": 30.7,
+     "tmax": 27.2,
+     "feels": 29.9,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 27.1,
-     "feels": 29.6,
-     "humidity": 80,
+     "tmax": 26.5,
+     "feels": 28.8,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 25.4,
-     "feels": 27.2,
+     "feels": 27.6,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.3,
-     "feels": 26.5,
-     "humidity": 81,
+     "tmax": 25.1,
+     "feels": 26.4,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.3,
-     "feels": 27.6,
-     "humidity": 76,
+     "tmax": 25.7,
+     "feels": 26.3,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.1,
-     "feels": 29.1,
-     "humidity": 76,
+     "tmax": 25.9,
+     "feels": 27.0,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.2,
-     "feels": 27.8,
-     "humidity": 72,
+     "tmax": 26.4,
+     "feels": 27.3,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.6,
-     "feels": 25.4,
-     "humidity": 70,
+     "tmax": 26.5,
+     "feels": 28.2,
+     "humidity": 81,
      "level": 0
     }
    ]
@@ -2415,99 +2415,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.6,
-     "feels": 30.8,
-     "humidity": 79,
+     "feels": 30.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 29.9,
-     "feels": 32.6,
-     "humidity": 77,
+     "tmax": 29.8,
+     "feels": 32.0,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 29.8,
-     "feels": 32.9,
-     "humidity": 79,
+     "feels": 32.8,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.8,
-     "feels": 32.2,
-     "humidity": 80,
+     "tmax": 28.9,
+     "feels": 32.0,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.5,
-     "feels": 29.2,
-     "humidity": 76,
+     "tmax": 27.7,
+     "feels": 28.0,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 27.4,
-     "feels": 30.0,
-     "humidity": 82,
+     "tmax": 27.1,
+     "feels": 29.8,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 28.1,
-     "feels": 30.6,
+     "tmax": 27.4,
+     "feels": 29.9,
      "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 27.6,
-     "feels": 29.5,
-     "humidity": 81,
+     "tmax": 27.0,
+     "feels": 29.0,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.6,
-     "feels": 27.2,
-     "humidity": 82,
+     "tmax": 25.7,
+     "feels": 27.6,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.3,
-     "feels": 26.4,
-     "humidity": 82,
+     "feels": 26.2,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.5,
-     "feels": 27.3,
-     "humidity": 79,
+     "tmax": 25.9,
+     "feels": 26.0,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.3,
-     "feels": 28.3,
-     "humidity": 77,
+     "tmax": 26.2,
+     "feels": 26.5,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.4,
-     "feels": 28.3,
-     "humidity": 76,
+     "tmax": 26.4,
+     "feels": 26.8,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 26.3,
-     "feels": 25.0,
-     "humidity": 72,
+     "tmax": 26.5,
+     "feels": 28.3,
+     "humidity": 82,
      "level": 0
     }
    ]
@@ -2523,100 +2523,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 29.4,
-     "feels": 33.2,
-     "humidity": 78,
+     "tmax": 29.7,
+     "feels": 33.6,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 30.4,
-     "feels": 34.2,
-     "humidity": 74,
+     "tmax": 30.3,
+     "feels": 33.6,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 30.3,
-     "feels": 34.0,
+     "tmax": 29.8,
+     "feels": 33.3,
      "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 29.3,
-     "feels": 32.7,
-     "humidity": 78,
+     "tmax": 29.5,
+     "feels": 33.1,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.6,
-     "feels": 30.7,
-     "humidity": 81,
+     "tmax": 27.7,
+     "feels": 28.7,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 27.7,
-     "feels": 31.0,
-     "humidity": 83,
+     "tmax": 26.9,
+     "feels": 29.8,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 28.7,
-     "feels": 31.6,
-     "humidity": 78,
+     "tmax": 28.0,
+     "feels": 30.8,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 27.6,
-     "feels": 30.5,
-     "humidity": 78,
+     "tmax": 27.0,
+     "feels": 29.4,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 25.7,
-     "feels": 28.0,
+     "feels": 27.9,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.9,
-     "feels": 27.0,
-     "humidity": 77,
+     "tmax": 25.4,
+     "feels": 26.3,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.8,
-     "feels": 27.1,
-     "humidity": 72,
+     "tmax": 26.0,
+     "feels": 26.4,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.6,
-     "feels": 28.6,
-     "humidity": 72,
+     "tmax": 26.2,
+     "feels": 26.9,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.7,
-     "feels": 28.0,
-     "humidity": 70,
+     "tmax": 26.7,
+     "feels": 27.8,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 26.6,
-     "feels": 25.5,
-     "humidity": 68,
+     "tmax": 27.0,
+     "feels": 28.9,
+     "humidity": 77,
      "level": 0
     }
    ]
@@ -2632,100 +2632,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.5,
-     "feels": 29.7,
-     "humidity": 77,
+     "tmax": 27.8,
+     "feels": 29.6,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.1,
+     "tmax": 27.9,
+     "feels": 29.9,
      "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.2,
-     "feels": 29.9,
-     "humidity": 76,
+     "feels": 30.0,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.9,
-     "feels": 28.9,
-     "humidity": 74,
+     "tmax": 27.8,
+     "feels": 29.5,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.4,
-     "feels": 26.1,
+     "tmax": 26.3,
+     "feels": 26.5,
      "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.3,
-     "feels": 26.5,
-     "humidity": 77,
+     "tmax": 25.5,
+     "feels": 26.8,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 27.7,
-     "humidity": 83,
+     "tmax": 25.8,
+     "feels": 27.3,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.9,
+     "tmax": 25.4,
+     "feels": 26.8,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.3,
-     "feels": 26.2,
-     "humidity": 80,
+     "tmax": 24.8,
+     "feels": 26.1,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.5,
-     "feels": 26.8,
-     "humidity": 80,
+     "tmax": 25.0,
+     "feels": 26.7,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.9,
-     "feels": 28.6,
+     "tmax": 26.1,
+     "feels": 27.9,
      "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.7,
-     "feels": 29.9,
-     "humidity": 82,
+     "tmax": 26.1,
+     "feels": 28.3,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.1,
-     "feels": 29.4,
-     "humidity": 82,
+     "tmax": 26.5,
+     "feels": 28.8,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.5,
-     "feels": 25.8,
-     "humidity": 74,
+     "tmax": 26.6,
+     "feels": 28.8,
+     "humidity": 87,
      "level": 0
     }
    ]
@@ -2742,99 +2742,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.8,
-     "feels": 30.6,
-     "humidity": 74,
+     "feels": 30.3,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 29.6,
-     "feels": 30.9,
+     "tmax": 29.5,
+     "feels": 30.6,
      "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 29.5,
-     "feels": 30.7,
-     "humidity": 72,
+     "feels": 30.9,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.7,
-     "feels": 29.5,
-     "humidity": 71,
+     "tmax": 28.9,
+     "feels": 29.7,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.2,
+     "tmax": 27.1,
      "feels": 26.9,
-     "humidity": 68,
+     "humidity": 69,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.4,
-     "feels": 27.3,
-     "humidity": 75,
+     "tmax": 26.1,
+     "feels": 27.2,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.1,
-     "feels": 28.1,
+     "tmax": 26.9,
+     "feels": 27.9,
      "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.3,
-     "feels": 27.7,
-     "humidity": 80,
+     "tmax": 26.4,
+     "feels": 27.5,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 26.3,
+     "tmax": 25.9,
      "feels": 26.8,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 26.8,
-     "feels": 27.4,
-     "humidity": 78,
+     "tmax": 26.3,
+     "feels": 27.3,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 27.7,
-     "feels": 29.1,
+     "tmax": 27.1,
+     "feels": 28.8,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 29.0,
-     "feels": 30.6,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 27.9,
-     "feels": 29.9,
+     "tmax": 27.6,
+     "feels": 29.4,
      "humidity": 80,
      "level": 0
     },
     {
+     "date": "2026-12-10",
+     "tmax": 27.8,
+     "feels": 29.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 26.3,
-     "feels": 26.1,
-     "humidity": 73,
+     "tmax": 27.2,
+     "feels": 29.3,
+     "humidity": 86,
      "level": 0
     }
    ]
@@ -2850,100 +2850,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.5,
+     "tmax": 27.8,
      "feels": 29.6,
-     "humidity": 78,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.0,
-     "feels": 29.8,
-     "humidity": 75,
+     "tmax": 27.9,
+     "feels": 29.6,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.2,
-     "feels": 29.8,
-     "humidity": 75,
+     "feels": 30.0,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.7,
-     "feels": 28.9,
+     "tmax": 27.6,
+     "feels": 29.2,
      "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.4,
-     "feels": 26.7,
-     "humidity": 72,
+     "tmax": 26.6,
+     "feels": 26.4,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
      "tmax": 25.3,
-     "feels": 26.1,
-     "humidity": 78,
+     "feels": 26.2,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 27.3,
-     "humidity": 83,
+     "tmax": 25.6,
+     "feels": 27.0,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.5,
-     "humidity": 83,
-     "level": 0
-    },
-    {
-     "date": "2026-12-06",
-     "tmax": 25.0,
-     "feels": 25.8,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 26.2,
-     "feels": 28.0,
+     "tmax": 25.4,
+     "feels": 26.3,
      "humidity": 82,
      "level": 0
     },
     {
-     "date": "2026-12-08",
-     "tmax": 27.4,
-     "feels": 29.4,
+     "date": "2026-12-06",
+     "tmax": 25.3,
+     "feels": 26.2,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 25.7,
+     "feels": 27.4,
      "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 26.6,
+     "feels": 28.4,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 28.2,
-     "feels": 31.1,
-     "humidity": 84,
+     "tmax": 26.3,
+     "feels": 28.0,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.1,
-     "feels": 29.8,
-     "humidity": 81,
+     "tmax": 27.3,
+     "feels": 29.6,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.5,
-     "feels": 25.6,
-     "humidity": 76,
+     "tmax": 27.4,
+     "feels": 29.7,
+     "humidity": 85,
      "level": 0
     }
    ]
@@ -2959,100 +2959,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.5,
-     "feels": 29.5,
-     "humidity": 78,
+     "tmax": 27.8,
+     "feels": 29.4,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.0,
-     "feels": 29.6,
-     "humidity": 76,
+     "tmax": 27.9,
+     "feels": 29.2,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 28.2,
-     "feels": 29.9,
-     "humidity": 76,
+     "feels": 30.0,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.4,
-     "feels": 28.3,
+     "tmax": 27.6,
+     "feels": 28.9,
      "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.9,
-     "feels": 25.9,
-     "humidity": 71,
+     "tmax": 26.3,
+     "feels": 26.3,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.6,
-     "feels": 26.4,
-     "humidity": 76,
+     "tmax": 25.5,
+     "feels": 26.8,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
+     "tmax": 25.8,
      "feels": 27.1,
-     "humidity": 82,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.6,
+     "tmax": 25.4,
+     "feels": 26.3,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 24.8,
-     "feels": 25.4,
-     "humidity": 75,
+     "feels": 25.7,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.7,
-     "feels": 27.1,
-     "humidity": 76,
+     "tmax": 25.5,
+     "feels": 27.0,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 27.4,
+     "tmax": 26.3,
+     "feels": 27.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 26.6,
+     "feels": 28.7,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 27.0,
      "feels": 29.2,
      "humidity": 82,
      "level": 0
     },
     {
-     "date": "2026-12-09",
-     "tmax": 27.7,
-     "feels": 30.0,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 26.8,
-     "feels": 28.5,
-     "humidity": 81,
-     "level": 0
-    },
-    {
      "date": "2026-12-11",
-     "tmax": 24.7,
-     "feels": 23.8,
-     "humidity": 69,
+     "tmax": 27.1,
+     "feels": 28.8,
+     "humidity": 82,
      "level": 0
     }
    ]
@@ -3069,99 +3069,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 29.9,
-     "humidity": 76,
+     "feels": 29.6,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.0,
+     "tmax": 28.2,
+     "feels": 29.6,
      "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.2,
+     "tmax": 28.4,
      "feels": 30.0,
-     "humidity": 76,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.4,
-     "feels": 28.5,
-     "humidity": 74,
+     "tmax": 27.8,
+     "feels": 29.1,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.2,
-     "feels": 26.0,
+     "tmax": 26.3,
+     "feels": 26.1,
      "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.6,
-     "feels": 26.5,
-     "humidity": 76,
+     "tmax": 25.8,
+     "feels": 27.0,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 27.7,
+     "tmax": 26.1,
+     "feels": 27.3,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.7,
-     "humidity": 82,
+     "tmax": 25.6,
+     "feels": 26.8,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.3,
-     "feels": 26.5,
-     "humidity": 77,
+     "tmax": 25.1,
+     "feels": 25.9,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.7,
-     "feels": 27.0,
-     "humidity": 75,
+     "tmax": 25.5,
+     "feels": 26.5,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 27.2,
-     "feels": 29.1,
+     "tmax": 26.3,
+     "feels": 28.0,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 28.0,
-     "feels": 30.0,
+     "tmax": 26.6,
+     "feels": 28.7,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.1,
-     "feels": 28.9,
+     "tmax": 27.0,
+     "feels": 29.1,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.0,
-     "feels": 24.0,
-     "humidity": 71,
+     "tmax": 27.4,
+     "feels": 28.7,
+     "humidity": 81,
      "level": 0
     }
    ]
@@ -3177,100 +3177,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.5,
-     "feels": 29.6,
-     "humidity": 77,
+     "tmax": 27.8,
+     "feels": 29.4,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.0,
-     "feels": 29.7,
-     "humidity": 77,
+     "tmax": 27.9,
+     "feels": 29.6,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.2,
-     "feels": 29.8,
-     "humidity": 76,
+     "tmax": 27.9,
+     "feels": 29.7,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.2,
-     "feels": 28.1,
-     "humidity": 72,
+     "tmax": 27.6,
+     "feels": 28.6,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.9,
-     "feels": 26.0,
-     "humidity": 70,
+     "tmax": 26.1,
+     "feels": 26.1,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.6,
-     "feels": 26.6,
-     "humidity": 76,
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.3,
-     "feels": 27.3,
-     "humidity": 81,
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.7,
-     "humidity": 83,
+     "tmax": 25.4,
+     "feels": 26.8,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 24.8,
      "feels": 25.7,
-     "humidity": 78,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.2,
-     "feels": 26.4,
-     "humidity": 77,
+     "tmax": 25.0,
+     "feels": 26.1,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.9,
-     "feels": 28.6,
+     "tmax": 26.1,
+     "feels": 27.5,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.2,
-     "feels": 29.6,
+     "tmax": 26.1,
+     "feels": 28.1,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 26.3,
-     "feels": 28.3,
-     "humidity": 79,
+     "tmax": 26.8,
+     "feels": 28.6,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.7,
-     "feels": 23.3,
-     "humidity": 67,
+     "tmax": 27.1,
+     "feels": 28.2,
+     "humidity": 80,
      "level": 0
     }
    ]
@@ -3286,100 +3286,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.3,
-     "feels": 29.4,
-     "humidity": 77,
+     "tmax": 27.5,
+     "feels": 29.3,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.8,
-     "feels": 29.5,
-     "humidity": 77,
+     "tmax": 27.9,
+     "feels": 29.4,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 27.7,
-     "feels": 29.5,
-     "humidity": 77,
+     "feels": 29.7,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.2,
-     "feels": 28.0,
-     "humidity": 72,
+     "tmax": 27.3,
+     "feels": 28.2,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.7,
+     "tmax": 26.1,
      "feels": 26.0,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.6,
-     "feels": 26.3,
-     "humidity": 76,
+     "tmax": 25.5,
+     "feels": 26.7,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 27.4,
-     "humidity": 81,
+     "tmax": 25.8,
+     "feels": 26.8,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.6,
-     "humidity": 82,
+     "tmax": 25.1,
+     "feels": 26.4,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.5,
-     "feels": 24.9,
+     "tmax": 24.6,
+     "feels": 25.1,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.5,
-     "feels": 26.5,
-     "humidity": 76,
+     "tmax": 25.2,
+     "feels": 26.0,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 27.2,
-     "feels": 28.7,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 27.5,
-     "feels": 29.5,
-     "humidity": 82,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 26.6,
-     "feels": 28.3,
+     "tmax": 26.3,
+     "feels": 27.7,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 26.3,
+     "feels": 28.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 27.0,
+     "feels": 28.8,
+     "humidity": 83,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 24.5,
-     "feels": 23.4,
-     "humidity": 68,
+     "tmax": 26.9,
+     "feels": 28.1,
+     "humidity": 80,
      "level": 0
     }
    ]
@@ -3396,34 +3396,34 @@
     {
      "date": "2026-11-28",
      "tmax": 26.8,
-     "feels": 28.4,
-     "humidity": 78,
+     "feels": 28.5,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.5,
-     "feels": 29.1,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 27.2,
-     "feels": 28.7,
+     "tmax": 27.7,
+     "feels": 29.0,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-11-30",
+     "tmax": 26.9,
+     "feels": 28.4,
+     "humidity": 75,
+     "level": 0
+    },
+    {
      "date": "2026-12-01",
-     "tmax": 26.4,
-     "feels": 27.3,
-     "humidity": 72,
+     "tmax": 26.6,
+     "feels": 27.2,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.4,
+     "tmax": 25.3,
      "feels": 25.3,
      "humidity": 72,
      "level": 0
@@ -3431,64 +3431,64 @@
     {
      "date": "2026-12-03",
      "tmax": 25.3,
-     "feels": 25.9,
-     "humidity": 77,
+     "feels": 26.1,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 25.8,
-     "feels": 26.3,
+     "tmax": 25.6,
+     "feels": 26.2,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.4,
-     "humidity": 82,
+     "tmax": 24.9,
+     "feels": 25.8,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.0,
-     "feels": 24.4,
-     "humidity": 79,
+     "tmax": 23.8,
+     "feels": 24.3,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.0,
-     "feels": 25.7,
-     "humidity": 77,
+     "tmax": 24.7,
+     "feels": 25.5,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.4,
+     "tmax": 25.6,
+     "feels": 27.0,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 25.8,
      "feels": 27.9,
      "humidity": 81,
      "level": 0
     },
     {
-     "date": "2026-12-09",
-     "tmax": 27.0,
-     "feels": 28.6,
-     "humidity": 82,
-     "level": 0
-    },
-    {
      "date": "2026-12-10",
-     "tmax": 26.1,
-     "feels": 26.5,
-     "humidity": 75,
+     "tmax": 26.8,
+     "feels": 28.3,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.0,
-     "feels": 22.4,
-     "humidity": 71,
+     "tmax": 26.4,
+     "feels": 27.3,
+     "humidity": 81,
      "level": 0
     }
    ]
@@ -3504,100 +3504,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.3,
-     "feels": 29.4,
-     "humidity": 77,
+     "tmax": 27.5,
+     "feels": 29.3,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.8,
-     "feels": 29.5,
-     "humidity": 77,
+     "tmax": 27.9,
+     "feels": 29.4,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 27.7,
-     "feels": 29.5,
-     "humidity": 77,
+     "feels": 29.7,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.2,
-     "feels": 28.0,
-     "humidity": 72,
+     "tmax": 27.3,
+     "feels": 28.2,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.7,
-     "feels": 26.0,
+     "tmax": 26.1,
+     "feels": 25.9,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.6,
-     "feels": 26.3,
-     "humidity": 76,
+     "tmax": 25.5,
+     "feels": 26.7,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 27.4,
-     "humidity": 81,
+     "tmax": 25.8,
+     "feels": 26.8,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.6,
-     "humidity": 82,
+     "tmax": 25.1,
+     "feels": 26.3,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.5,
-     "feels": 24.9,
+     "tmax": 24.6,
+     "feels": 25.1,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.5,
-     "feels": 26.4,
-     "humidity": 76,
+     "tmax": 25.2,
+     "feels": 25.9,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 27.2,
-     "feels": 28.7,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 27.5,
-     "feels": 29.5,
-     "humidity": 82,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 26.6,
-     "feels": 28.3,
+     "tmax": 26.3,
+     "feels": 27.7,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 26.3,
+     "feels": 28.4,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 27.0,
+     "feels": 28.8,
+     "humidity": 83,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 24.5,
-     "feels": 23.4,
-     "humidity": 68,
+     "tmax": 26.9,
+     "feels": 28.1,
+     "humidity": 80,
      "level": 0
     }
    ]
@@ -3613,100 +3613,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 26.5,
+     "tmax": 26.8,
      "feels": 28.3,
-     "humidity": 79,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.3,
-     "feels": 29.5,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 27.2,
+     "tmax": 27.4,
      "feels": 29.0,
      "humidity": 78,
      "level": 0
     },
     {
+     "date": "2026-11-30",
+     "tmax": 27.2,
+     "feels": 28.6,
+     "humidity": 75,
+     "level": 0
+    },
+    {
      "date": "2026-12-01",
-     "tmax": 26.7,
-     "feels": 27.5,
-     "humidity": 71,
+     "tmax": 26.6,
+     "feels": 27.4,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.4,
-     "feels": 25.3,
-     "humidity": 72,
+     "tmax": 25.6,
+     "feels": 25.7,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.3,
-     "feels": 25.8,
-     "humidity": 77,
+     "tmax": 25.0,
+     "feels": 26.5,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 25.8,
-     "feels": 26.6,
-     "humidity": 81,
+     "tmax": 25.3,
+     "feels": 26.4,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.2,
-     "feels": 26.2,
+     "tmax": 24.6,
+     "feels": 25.7,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.0,
-     "feels": 24.7,
+     "tmax": 23.8,
+     "feels": 24.4,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.2,
-     "feels": 26.1,
-     "humidity": 76,
+     "tmax": 25.0,
+     "feels": 26.2,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 28.5,
-     "humidity": 82,
+     "tmax": 25.8,
+     "feels": 27.2,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.0,
-     "feels": 29.3,
+     "tmax": 26.1,
+     "feels": 28.2,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 26.1,
-     "feels": 26.7,
-     "humidity": 74,
+     "tmax": 27.0,
+     "feels": 28.9,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.7,
-     "feels": 22.4,
-     "humidity": 71,
+     "tmax": 26.4,
+     "feels": 27.7,
+     "humidity": 79,
      "level": 0
     }
    ]
@@ -3723,99 +3723,99 @@
     {
      "date": "2026-11-28",
      "tmax": 26.5,
-     "feels": 28.2,
-     "humidity": 80,
+     "feels": 27.8,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.0,
-     "feels": 28.8,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 26.7,
-     "feels": 27.9,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 26.4,
-     "feels": 27.3,
-     "humidity": 71,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 25.2,
-     "feels": 24.8,
-     "humidity": 74,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 25.1,
-     "feels": 25.6,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 25.5,
-     "feels": 26.2,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 25.0,
-     "feels": 25.4,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-06",
-     "tmax": 23.8,
-     "feels": 24.4,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 24.7,
-     "feels": 25.4,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 26.2,
-     "feels": 27.6,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 26.5,
-     "feels": 28.1,
+     "tmax": 27.2,
+     "feels": 28.3,
      "humidity": 80,
      "level": 0
     },
     {
-     "date": "2026-12-10",
-     "tmax": 25.6,
+     "date": "2026-11-30",
+     "tmax": 26.9,
+     "feels": 28.1,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-01",
+     "tmax": 26.3,
+     "feels": 26.9,
+     "humidity": 69,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 25.1,
+     "feels": 24.9,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.0,
      "feels": 26.0,
-     "humidity": 76,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 25.1,
+     "feels": 25.7,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 24.6,
+     "feels": 25.5,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 23.6,
+     "feels": 24.0,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.2,
+     "feels": 25.2,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.1,
+     "feels": 26.5,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 25.8,
+     "feels": 27.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 26.3,
+     "feels": 28.4,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.2,
-     "feels": 22.1,
-     "humidity": 71,
+     "tmax": 25.9,
+     "feels": 26.7,
+     "humidity": 80,
      "level": 0
     }
    ]
@@ -3832,99 +3832,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.5,
-     "feels": 28.8,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
-     "tmax": 28.0,
-     "feels": 29.3,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-11-30",
-     "tmax": 27.1,
-     "feels": 28.2,
+     "feels": 28.9,
      "humidity": 76,
      "level": 0
     },
     {
+     "date": "2026-11-29",
+     "tmax": 28.1,
+     "feels": 29.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 27.4,
+     "feels": 28.0,
+     "humidity": 72,
+     "level": 0
+    },
+    {
      "date": "2026-12-01",
-     "tmax": 27.1,
-     "feels": 27.3,
-     "humidity": 70,
+     "tmax": 27.0,
+     "feels": 26.9,
+     "humidity": 67,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.6,
-     "feels": 25.5,
-     "humidity": 71,
+     "tmax": 25.5,
+     "feels": 25.1,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.8,
-     "feels": 26.0,
-     "humidity": 75,
+     "tmax": 25.7,
+     "feels": 26.6,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.2,
+     "tmax": 25.8,
      "feels": 26.2,
      "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.1,
-     "humidity": 80,
+     "tmax": 25.1,
+     "feels": 25.9,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.2,
-     "feels": 24.4,
-     "humidity": 78,
+     "tmax": 24.0,
+     "feels": 24.3,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.9,
-     "feels": 25.1,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 26.4,
-     "feels": 27.6,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 26.4,
-     "feels": 27.7,
+     "tmax": 24.7,
+     "feels": 25.3,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-12-08",
+     "tmax": 25.3,
+     "feels": 26.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 26.0,
+     "feels": 27.1,
+     "humidity": 78,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 25.8,
-     "feels": 25.4,
-     "humidity": 74,
+     "tmax": 26.5,
+     "feels": 27.8,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.7,
-     "feels": 22.4,
-     "humidity": 68,
+     "tmax": 26.1,
+     "feels": 26.0,
+     "humidity": 78,
      "level": 0
     }
    ]
@@ -3940,100 +3940,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.2,
-     "feels": 29.3,
-     "humidity": 80,
+     "tmax": 27.5,
+     "feels": 29.0,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.7,
+     "tmax": 27.9,
      "feels": 29.4,
-     "humidity": 81,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 26.9,
-     "feels": 28.3,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 26.6,
-     "feels": 27.0,
-     "humidity": 73,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 25.6,
-     "feels": 25.6,
-     "humidity": 71,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 25.8,
-     "feels": 25.9,
+     "tmax": 27.1,
+     "feels": 27.9,
      "humidity": 75,
      "level": 0
     },
     {
+     "date": "2026-12-01",
+     "tmax": 26.5,
+     "feels": 26.7,
+     "humidity": 71,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 25.3,
+     "feels": 25.3,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.7,
+     "feels": 26.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
      "date": "2026-12-04",
-     "tmax": 26.2,
-     "feels": 26.4,
+     "tmax": 25.8,
+     "feels": 26.0,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 25.9,
-     "humidity": 80,
+     "tmax": 25.3,
+     "feels": 25.6,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.2,
-     "feels": 24.3,
+     "tmax": 24.0,
+     "feels": 24.1,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.7,
+     "tmax": 24.4,
      "feels": 25.0,
-     "humidity": 78,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.1,
-     "feels": 27.2,
+     "tmax": 25.0,
+     "feels": 26.0,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 25.9,
-     "feels": 27.3,
-     "humidity": 77,
+     "tmax": 25.8,
+     "feels": 26.7,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.5,
-     "feels": 24.6,
-     "humidity": 75,
+     "tmax": 26.0,
+     "feels": 27.5,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.7,
-     "feels": 22.0,
-     "humidity": 67,
+     "tmax": 25.6,
+     "feels": 25.4,
+     "humidity": 77,
      "level": 0
     }
    ]
@@ -4050,99 +4050,99 @@
     {
      "date": "2026-11-28",
      "tmax": 26.0,
-     "feels": 27.6,
-     "humidity": 82,
+     "feels": 27.7,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 26.3,
-     "feels": 28.1,
+     "tmax": 26.4,
+     "feels": 28.0,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 25.9,
-     "feels": 26.8,
-     "humidity": 77,
+     "tmax": 26.1,
+     "feels": 27.2,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 25.9,
-     "feels": 26.3,
-     "humidity": 74,
+     "tmax": 25.5,
+     "feels": 26.4,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 24.6,
-     "feels": 24.4,
+     "tmax": 24.5,
+     "feels": 24.7,
      "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 24.8,
-     "feels": 25.0,
+     "tmax": 24.5,
+     "feels": 25.2,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 25.0,
-     "feels": 25.3,
+     "tmax": 24.5,
+     "feels": 25.2,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 24.7,
-     "feels": 25.1,
-     "humidity": 80,
+     "tmax": 24.1,
+     "feels": 24.6,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 23.5,
-     "feels": 23.8,
-     "humidity": 79,
+     "tmax": 23.3,
+     "feels": 23.5,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.2,
-     "feels": 24.5,
+     "tmax": 23.9,
+     "feels": 24.8,
      "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 25.6,
-     "feels": 27.0,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 25.7,
-     "feels": 27.2,
+     "tmax": 24.5,
+     "feels": 25.9,
      "humidity": 80,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 25.0,
+     "feels": 26.6,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 25.3,
-     "feels": 25.5,
-     "humidity": 77,
+     "tmax": 25.5,
+     "feels": 27.4,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 22.7,
-     "feels": 21.8,
-     "humidity": 70,
+     "tmax": 25.6,
+     "feels": 26.0,
+     "humidity": 77,
      "level": 0
     }
    ]
@@ -4159,99 +4159,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.3,
-     "feels": 29.1,
-     "humidity": 77,
+     "feels": 29.2,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.8,
-     "feels": 29.5,
-     "humidity": 79,
+     "tmax": 27.9,
+     "feels": 29.4,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 27.4,
-     "feels": 29.1,
+     "tmax": 27.2,
+     "feels": 28.8,
      "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 26.4,
-     "feels": 27.8,
-     "humidity": 71,
+     "tmax": 26.8,
+     "feels": 28.0,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.4,
-     "feels": 25.8,
-     "humidity": 71,
+     "tmax": 25.6,
+     "feels": 25.6,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.8,
-     "feels": 26.5,
-     "humidity": 76,
+     "tmax": 25.5,
+     "feels": 26.7,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
+     "tmax": 25.8,
      "feels": 26.7,
-     "humidity": 81,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.6,
+     "tmax": 25.1,
+     "feels": 25.9,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.3,
-     "feels": 24.6,
-     "humidity": 77,
+     "tmax": 23.8,
+     "feels": 24.2,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.7,
-     "feels": 25.4,
-     "humidity": 75,
+     "tmax": 24.5,
+     "feels": 25.7,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.4,
-     "feels": 28.0,
-     "humidity": 82,
+     "tmax": 25.6,
+     "feels": 27.0,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.0,
-     "feels": 28.6,
-     "humidity": 82,
+     "tmax": 25.8,
+     "feels": 27.6,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.8,
-     "feels": 26.1,
-     "humidity": 74,
+     "tmax": 26.8,
+     "feels": 28.2,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.0,
-     "feels": 22.8,
-     "humidity": 66,
+     "tmax": 26.6,
+     "feels": 27.1,
+     "humidity": 80,
      "level": 0
     }
    ]
@@ -4268,99 +4268,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.5,
-     "feels": 29.8,
-     "humidity": 78,
+     "feels": 29.2,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.1,
-     "feels": 29.7,
-     "humidity": 79,
+     "tmax": 28.2,
+     "feels": 29.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 27.7,
-     "feels": 28.8,
+     "feels": 28.6,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 26.4,
-     "feels": 27.4,
-     "humidity": 75,
+     "tmax": 26.8,
+     "feels": 26.8,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.4,
-     "feels": 26.3,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 26.3,
-     "feels": 27.1,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 26.7,
-     "humidity": 82,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.6,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-06",
-     "tmax": 24.3,
-     "feels": 24.6,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 24.5,
-     "feels": 24.8,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 25.7,
-     "feels": 27.1,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 26.0,
-     "feels": 27.2,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
      "tmax": 25.6,
      "feels": 25.2,
      "humidity": 75,
      "level": 0
     },
     {
+     "date": "2026-12-03",
+     "tmax": 26.0,
+     "feels": 27.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-04",
+     "tmax": 26.1,
+     "feels": 26.4,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 25.1,
+     "feels": 26.0,
+     "humidity": 83,
+     "level": 0
+    },
+    {
+     "date": "2026-12-06",
+     "tmax": 24.1,
+     "feels": 24.3,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.2,
+     "feels": 24.6,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.1,
+     "feels": 25.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 25.6,
+     "feels": 26.6,
+     "humidity": 82,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 25.5,
+     "feels": 27.2,
+     "humidity": 85,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 23.7,
-     "feels": 22.3,
-     "humidity": 70,
+     "tmax": 25.1,
+     "feels": 25.5,
+     "humidity": 84,
      "level": 0
     }
    ]
@@ -4377,99 +4377,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.5,
-     "feels": 29.4,
-     "humidity": 77,
+     "feels": 29.0,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.0,
-     "feels": 29.9,
-     "humidity": 80,
+     "tmax": 28.2,
+     "feels": 29.8,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 27.2,
-     "feels": 28.2,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 26.9,
-     "feels": 27.0,
-     "humidity": 71,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 25.7,
-     "feels": 26.1,
-     "humidity": 72,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 26.1,
-     "feels": 26.2,
+     "feels": 28.1,
      "humidity": 75,
      "level": 0
     },
     {
+     "date": "2026-12-01",
+     "tmax": 26.8,
+     "feels": 26.7,
+     "humidity": 70,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 25.6,
+     "feels": 25.2,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.8,
+     "feels": 26.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
      "date": "2026-12-04",
-     "tmax": 26.3,
-     "feels": 26.1,
+     "tmax": 26.1,
+     "feels": 26.0,
      "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.1,
-     "humidity": 80,
+     "tmax": 25.4,
+     "feels": 25.8,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.5,
-     "feels": 24.4,
-     "humidity": 78,
+     "tmax": 24.1,
+     "feels": 24.1,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.0,
-     "feels": 24.8,
-     "humidity": 76,
+     "tmax": 24.5,
+     "feels": 24.7,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.2,
-     "feels": 27.1,
-     "humidity": 78,
+     "tmax": 25.3,
+     "feels": 26.0,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.2,
-     "feels": 27.0,
+     "tmax": 25.8,
+     "feels": 26.6,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.6,
-     "feels": 24.8,
-     "humidity": 73,
+     "tmax": 26.3,
+     "feels": 27.3,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.5,
-     "feels": 22.2,
-     "humidity": 67,
+     "tmax": 25.6,
+     "feels": 25.4,
+     "humidity": 78,
      "level": 0
     }
    ]
@@ -4485,100 +4485,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.0,
-     "feels": 28.8,
-     "humidity": 81,
+     "tmax": 27.3,
+     "feels": 29.0,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.5,
-     "feels": 29.4,
-     "humidity": 81,
+     "tmax": 27.4,
+     "feels": 29.1,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 26.7,
-     "feels": 27.8,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 26.2,
-     "feels": 26.7,
-     "humidity": 74,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 25.4,
-     "feels": 25.9,
-     "humidity": 73,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 25.8,
-     "feels": 25.7,
+     "feels": 27.9,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-12-01",
+     "tmax": 26.3,
+     "feels": 26.8,
+     "humidity": 72,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 25.1,
+     "feels": 25.3,
+     "humidity": 76,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.5,
+     "feels": 26.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 25.9,
+     "tmax": 25.8,
+     "feels": 26.1,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 25.9,
-     "humidity": 80,
+     "tmax": 25.1,
+     "feels": 25.5,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.0,
-     "feels": 24.0,
-     "humidity": 80,
+     "tmax": 23.6,
+     "feels": 23.8,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 24.2,
-     "feels": 24.2,
-     "humidity": 77,
+     "feels": 24.4,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 25.4,
-     "feels": 27.0,
-     "humidity": 79,
+     "tmax": 24.8,
+     "feels": 26.0,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 25.7,
-     "feels": 26.6,
-     "humidity": 79,
+     "tmax": 25.1,
+     "feels": 26.3,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.1,
-     "feels": 24.2,
-     "humidity": 75,
+     "tmax": 25.5,
+     "feels": 26.7,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.0,
-     "feels": 21.7,
-     "humidity": 70,
+     "tmax": 25.1,
+     "feels": 25.0,
+     "humidity": 76,
      "level": 0
     }
    ]
@@ -4595,99 +4595,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 29.7,
+     "feels": 29.6,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.4,
+     "tmax": 28.4,
+     "feels": 30.7,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.4,
-     "feels": 30.4,
+     "tmax": 28.7,
+     "feels": 31.0,
      "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.9,
-     "feels": 29.4,
-     "humidity": 74,
+     "tmax": 27.6,
+     "feels": 29.6,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.9,
+     "tmax": 26.8,
      "feels": 27.3,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.3,
-     "feels": 27.5,
-     "humidity": 77,
+     "tmax": 25.8,
+     "feels": 27.3,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.3,
+     "tmax": 26.1,
      "feels": 28.0,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 26.2,
-     "feels": 27.7,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-05",
+     "tmax": 26.1,
+     "feels": 27.7,
+     "humidity": 83,
+     "level": 0
+    },
+    {
      "date": "2026-12-06",
-     "tmax": 25.5,
+     "tmax": 25.6,
      "feels": 26.8,
-     "humidity": 80,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.5,
-     "feels": 27.0,
-     "humidity": 77,
+     "feels": 27.2,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 29.2,
-     "humidity": 83,
+     "tmax": 26.3,
+     "feels": 28.1,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 28.0,
-     "feels": 30.3,
-     "humidity": 83,
+     "tmax": 26.3,
+     "feels": 28.1,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.3,
-     "feels": 29.5,
-     "humidity": 82,
+     "tmax": 27.0,
+     "feels": 29.1,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.5,
-     "feels": 25.4,
-     "humidity": 75,
+     "tmax": 26.6,
+     "feels": 29.2,
+     "humidity": 87,
      "level": 0
     }
    ]
@@ -4704,99 +4704,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 30.2,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.8,
+     "feels": 29.9,
      "humidity": 77,
      "level": 0
     },
     {
-     "date": "2026-11-30",
+     "date": "2026-11-29",
      "tmax": 28.4,
+     "feels": 31.0,
+     "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-11-30",
+     "tmax": 28.2,
      "feels": 30.7,
      "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.9,
+     "tmax": 27.8,
      "feels": 30.1,
-     "humidity": 74,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.7,
-     "feels": 27.2,
+     "tmax": 26.6,
+     "feels": 27.4,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.8,
-     "feels": 27.1,
-     "humidity": 78,
+     "tmax": 25.5,
+     "feels": 27.4,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 27.7,
-     "humidity": 83,
+     "tmax": 25.8,
+     "feels": 27.8,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 27.4,
+     "tmax": 25.6,
+     "feels": 27.6,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.3,
-     "feels": 26.5,
-     "humidity": 79,
+     "tmax": 25.1,
+     "feels": 26.6,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.2,
-     "feels": 26.5,
-     "humidity": 81,
+     "feels": 27.0,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.9,
-     "feels": 29.9,
-     "humidity": 84,
+     "tmax": 26.1,
+     "feels": 28.8,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.7,
-     "feels": 30.5,
-     "humidity": 84,
+     "tmax": 26.1,
+     "feels": 28.4,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.1,
-     "feels": 29.7,
+     "tmax": 26.8,
+     "feels": 29.3,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.7,
-     "feels": 26.1,
-     "humidity": 75,
+     "tmax": 26.6,
+     "feels": 29.3,
+     "humidity": 88,
      "level": 0
     }
    ]
@@ -4813,99 +4813,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 29.7,
+     "feels": 29.6,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.4,
+     "tmax": 28.5,
+     "feels": 30.7,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.5,
-     "feels": 30.4,
+     "tmax": 28.7,
+     "feels": 31.1,
      "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.0,
-     "feels": 29.4,
-     "humidity": 74,
+     "tmax": 27.6,
+     "feels": 29.6,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.0,
+     "tmax": 26.9,
      "feels": 27.3,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.4,
-     "feels": 27.6,
-     "humidity": 77,
+     "tmax": 25.8,
+     "feels": 27.3,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.3,
-     "feels": 28.0,
-     "humidity": 80,
+     "tmax": 26.1,
+     "feels": 28.1,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.3,
+     "tmax": 26.2,
      "feels": 27.7,
-     "humidity": 82,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 25.6,
-     "feels": 26.9,
-     "humidity": 80,
+     "feels": 26.8,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.5,
-     "feels": 27.0,
-     "humidity": 77,
+     "feels": 27.2,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 29.2,
-     "humidity": 83,
+     "tmax": 26.4,
+     "feels": 28.2,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 28.0,
-     "feels": 30.3,
-     "humidity": 83,
+     "tmax": 26.4,
+     "feels": 28.1,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.4,
-     "feels": 29.5,
-     "humidity": 82,
+     "tmax": 27.1,
+     "feels": 29.1,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.5,
-     "feels": 25.5,
-     "humidity": 75,
+     "tmax": 26.7,
+     "feels": 29.2,
+     "humidity": 87,
      "level": 0
     }
    ]
@@ -4922,99 +4922,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.5,
-     "feels": 30.1,
-     "humidity": 79,
+     "feels": 29.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.8,
-     "feels": 30.7,
+     "tmax": 27.9,
+     "feels": 31.1,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 27.7,
-     "feels": 30.5,
+     "tmax": 27.9,
+     "feels": 30.3,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.7,
-     "feels": 30.0,
-     "humidity": 75,
+     "tmax": 27.3,
+     "feels": 29.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.2,
-     "feels": 27.4,
-     "humidity": 72,
+     "tmax": 26.3,
+     "feels": 27.7,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.6,
+     "tmax": 25.0,
      "feels": 26.6,
-     "humidity": 77,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 25.8,
+     "tmax": 25.6,
      "feels": 28.0,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 27.2,
      "humidity": 83,
      "level": 0
     },
     {
+     "date": "2026-12-05",
+     "tmax": 25.4,
+     "feels": 27.3,
+     "humidity": 85,
+     "level": 0
+    },
+    {
      "date": "2026-12-06",
-     "tmax": 25.0,
-     "feels": 26.7,
-     "humidity": 80,
+     "tmax": 24.8,
+     "feels": 26.3,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.2,
-     "feels": 26.5,
-     "humidity": 79,
+     "feels": 27.2,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.7,
-     "feels": 29.5,
-     "humidity": 84,
+     "tmax": 25.8,
+     "feels": 28.8,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.5,
-     "feels": 30.4,
+     "tmax": 25.8,
+     "feels": 27.5,
      "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 27.3,
-     "feels": 29.9,
+     "tmax": 26.5,
+     "feels": 29.3,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.7,
-     "feels": 26.3,
-     "humidity": 77,
+     "tmax": 26.9,
+     "feels": 29.7,
+     "humidity": 87,
      "level": 0
     }
    ]
@@ -5030,100 +5030,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.5,
-     "feels": 30.2,
-     "humidity": 80,
+     "tmax": 27.3,
+     "feels": 29.7,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.8,
-     "feels": 30.6,
-     "humidity": 79,
+     "tmax": 27.9,
+     "feels": 30.7,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 27.9,
      "feels": 30.0,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 27.4,
-     "feels": 30.0,
-     "humidity": 76,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 26.4,
-     "feels": 27.3,
-     "humidity": 73,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 25.3,
-     "feels": 26.4,
      "humidity": 78,
      "level": 0
     },
     {
+     "date": "2026-12-01",
+     "tmax": 27.3,
+     "feels": 30.0,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.6,
+     "feels": 27.6,
+     "humidity": 75,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.0,
+     "feels": 26.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-04",
-     "tmax": 25.8,
+     "tmax": 25.6,
      "feels": 27.8,
-     "humidity": 83,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.5,
-     "feels": 26.9,
-     "humidity": 83,
+     "tmax": 25.1,
+     "feels": 27.1,
+     "humidity": 86,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.0,
-     "feels": 26.4,
-     "humidity": 81,
+     "tmax": 24.8,
+     "feels": 26.2,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 25.2,
-     "feels": 26.7,
-     "humidity": 80,
+     "feels": 27.1,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.9,
-     "feels": 30.0,
-     "humidity": 85,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 27.5,
-     "feels": 30.4,
-     "humidity": 85,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 27.1,
-     "feels": 29.7,
+     "tmax": 26.1,
+     "feels": 28.6,
      "humidity": 83,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 25.8,
+     "feels": 28.2,
+     "humidity": 84,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 26.5,
+     "feels": 29.4,
+     "humidity": 84,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 25.5,
-     "feels": 26.9,
-     "humidity": 78,
+     "tmax": 26.6,
+     "feels": 29.8,
+     "humidity": 88,
      "level": 0
     }
    ]
@@ -5140,99 +5140,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 29.5,
-     "humidity": 80,
+     "feels": 29.7,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.0,
+     "tmax": 27.9,
      "feels": 30.4,
-     "humidity": 81,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 27.9,
-     "feels": 30.1,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 27.7,
-     "feels": 29.5,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 25.9,
-     "feels": 26.7,
-     "humidity": 75,
-     "level": 0
-    },
-    {
-     "date": "2026-12-03",
-     "tmax": 25.8,
-     "feels": 26.9,
+     "feels": 30.6,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-01",
+     "tmax": 27.6,
+     "feels": 29.6,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-02",
+     "tmax": 26.3,
+     "feels": 26.7,
+     "humidity": 74,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 25.3,
+     "feels": 26.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 27.9,
-     "humidity": 81,
+     "tmax": 25.6,
+     "feels": 27.6,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.2,
-     "feels": 26.9,
-     "humidity": 83,
+     "tmax": 25.1,
+     "feels": 27.1,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 24.8,
-     "feels": 26.6,
-     "humidity": 83,
+     "feels": 26.8,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 24.7,
-     "feels": 26.0,
-     "humidity": 78,
+     "feels": 26.4,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 25.9,
-     "feels": 28.2,
-     "humidity": 82,
+     "tmax": 25.3,
+     "feels": 27.7,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 27.2,
-     "feels": 29.9,
-     "humidity": 83,
+     "tmax": 25.8,
+     "feels": 27.6,
+     "humidity": 84,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 26.6,
-     "feels": 28.8,
-     "humidity": 82,
+     "tmax": 26.0,
+     "feels": 28.5,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.2,
-     "feels": 25.7,
-     "humidity": 76,
+     "tmax": 26.1,
+     "feels": 29.3,
+     "humidity": 87,
      "level": 0
     }
    ]
@@ -5248,100 +5248,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 28.0,
-     "feels": 29.9,
+     "tmax": 28.3,
+     "feels": 30.0,
      "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 29.4,
+     "tmax": 27.9,
+     "feels": 29.1,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.4,
-     "feels": 31.2,
+     "tmax": 28.2,
+     "feels": 30.8,
      "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.9,
-     "feels": 29.4,
-     "humidity": 74,
+     "tmax": 27.8,
+     "feels": 29.2,
+     "humidity": 69,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.2,
-     "feels": 29.0,
-     "humidity": 75,
+     "tmax": 27.3,
+     "feels": 28.4,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 27.1,
-     "feels": 28.2,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 27.3,
-     "feels": 28.9,
+     "tmax": 26.5,
+     "feels": 29.0,
      "humidity": 76,
      "level": 0
     },
     {
-     "date": "2026-12-05",
-     "tmax": 26.2,
-     "feels": 28.6,
+     "date": "2026-12-04",
+     "tmax": 27.1,
+     "feels": 28.8,
      "humidity": 78,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.1,
+     "feels": 27.9,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 25.3,
-     "feels": 26.5,
-     "humidity": 80,
+     "feels": 26.7,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.5,
-     "feels": 26.0,
-     "humidity": 80,
+     "tmax": 24.0,
+     "feels": 25.3,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 24.4,
-     "feels": 24.1,
+     "tmax": 24.3,
+     "feels": 24.7,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.0,
-     "feels": 26.9,
-     "humidity": 81,
+     "tmax": 24.6,
+     "feels": 25.0,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-10",
      "tmax": 25.3,
-     "feels": 26.5,
-     "humidity": 80,
+     "feels": 26.3,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.2,
-     "feels": 24.4,
-     "humidity": 74,
+     "tmax": 24.4,
+     "feels": 25.6,
+     "humidity": 84,
      "level": 0
     }
    ]
@@ -5358,99 +5358,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.6,
-     "feels": 30.2,
-     "humidity": 73,
-     "level": 0
-    },
-    {
-     "date": "2026-11-29",
-     "tmax": 28.9,
-     "feels": 29.7,
+     "feels": 29.8,
      "humidity": 70,
      "level": 0
     },
     {
+     "date": "2026-11-29",
+     "tmax": 28.8,
+     "feels": 30.0,
+     "humidity": 71,
+     "level": 0
+    },
+    {
      "date": "2026-11-30",
-     "tmax": 29.0,
-     "feels": 31.1,
-     "humidity": 75,
+     "tmax": 28.8,
+     "feels": 30.7,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.3,
-     "feels": 30.0,
-     "humidity": 75,
+     "tmax": 28.4,
+     "feels": 29.2,
+     "humidity": 68,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.5,
-     "feels": 29.3,
-     "humidity": 76,
+     "tmax": 27.4,
+     "feels": 28.4,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 27.7,
-     "feels": 29.1,
-     "humidity": 79,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 27.6,
-     "feels": 28.9,
+     "tmax": 27.1,
+     "feels": 29.8,
      "humidity": 78,
      "level": 0
     },
     {
-     "date": "2026-12-05",
-     "tmax": 26.8,
-     "feels": 28.6,
+     "date": "2026-12-04",
+     "tmax": 27.4,
+     "feels": 28.9,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-05",
+     "tmax": 26.7,
+     "feels": 28.5,
+     "humidity": 80,
+     "level": 0
+    },
+    {
      "date": "2026-12-06",
-     "tmax": 25.9,
+     "tmax": 25.7,
      "feels": 26.9,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.8,
-     "feels": 25.7,
+     "tmax": 24.3,
+     "feels": 25.0,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 24.8,
-     "feels": 24.9,
-     "humidity": 79,
+     "tmax": 24.9,
+     "feels": 25.2,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.1,
-     "feels": 27.3,
+     "tmax": 25.4,
+     "feels": 25.9,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.7,
-     "feels": 26.4,
-     "humidity": 77,
+     "tmax": 25.6,
+     "feels": 26.5,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.8,
-     "feels": 25.1,
-     "humidity": 75,
+     "tmax": 24.5,
+     "feels": 25.7,
+     "humidity": 82,
      "level": 0
     }
    ]
@@ -5466,100 +5466,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 28.7,
-     "feels": 29.2,
-     "humidity": 75,
+     "tmax": 28.5,
+     "feels": 28.4,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 29.2,
-     "feels": 30.4,
-     "humidity": 71,
+     "tmax": 29.1,
+     "feels": 30.0,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 29.6,
-     "feels": 31.6,
-     "humidity": 71,
+     "tmax": 29.4,
+     "feels": 31.4,
+     "humidity": 70,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.9,
-     "feels": 30.5,
-     "humidity": 71,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 28.1,
-     "feels": 29.1,
+     "tmax": 28.8,
+     "feels": 29.8,
      "humidity": 72,
      "level": 0
     },
     {
-     "date": "2026-12-03",
+     "date": "2026-12-02",
      "tmax": 27.8,
-     "feels": 29.7,
-     "humidity": 78,
+     "feels": 28.8,
+     "humidity": 73,
+     "level": 0
+    },
+    {
+     "date": "2026-12-03",
+     "tmax": 27.5,
+     "feels": 29.4,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 28.2,
-     "feels": 29.7,
-     "humidity": 78,
+     "tmax": 27.5,
+     "feels": 29.5,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 27.2,
-     "feels": 28.9,
-     "humidity": 79,
+     "tmax": 26.8,
+     "feels": 28.7,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 26.0,
-     "feels": 27.3,
-     "humidity": 79,
+     "tmax": 25.8,
+     "feels": 27.2,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 25.2,
-     "feels": 26.3,
-     "humidity": 78,
+     "tmax": 24.7,
+     "feels": 25.4,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 26.1,
-     "feels": 26.6,
-     "humidity": 78,
+     "tmax": 25.0,
+     "feels": 25.8,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.7,
-     "feels": 28.3,
-     "humidity": 79,
+     "tmax": 25.3,
+     "feels": 26.6,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 26.5,
-     "feels": 26.9,
-     "humidity": 75,
+     "tmax": 26.0,
+     "feels": 27.3,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.7,
-     "feels": 25.3,
-     "humidity": 69,
+     "tmax": 24.6,
+     "feels": 26.5,
+     "humidity": 85,
      "level": 0
     }
    ]
@@ -5576,99 +5576,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.2,
-     "feels": 29.0,
-     "humidity": 75,
+     "feels": 28.4,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 29.0,
+     "tmax": 28.6,
      "feels": 29.7,
-     "humidity": 72,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 29.4,
-     "feels": 31.6,
-     "humidity": 74,
+     "feels": 31.3,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 28.9,
-     "feels": 31.0,
+     "tmax": 28.5,
+     "feels": 30.7,
      "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 27.9,
-     "feels": 29.6,
-     "humidity": 74,
+     "tmax": 27.3,
+     "feels": 29.0,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 27.8,
-     "feels": 29.3,
-     "humidity": 77,
+     "tmax": 27.0,
+     "feels": 29.4,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 27.7,
-     "feels": 29.8,
+     "tmax": 27.3,
+     "feels": 29.5,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 27.2,
-     "feels": 29.1,
+     "tmax": 26.6,
+     "feels": 28.6,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 25.7,
-     "feels": 27.0,
-     "humidity": 79,
+     "tmax": 26.0,
+     "feels": 27.5,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.9,
-     "feels": 25.9,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 25.1,
-     "feels": 26.0,
+     "tmax": 24.2,
+     "feels": 24.8,
      "humidity": 76,
      "level": 0
     },
     {
-     "date": "2026-12-09",
-     "tmax": 26.2,
-     "feels": 27.9,
+     "date": "2026-12-08",
+     "tmax": 25.0,
+     "feels": 26.1,
      "humidity": 77,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 25.3,
+     "feels": 26.4,
+     "humidity": 78,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 26.3,
-     "feels": 27.2,
-     "humidity": 75,
+     "tmax": 25.7,
+     "feels": 27.4,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 25.7,
-     "feels": 25.8,
-     "humidity": 69,
+     "tmax": 24.1,
+     "feels": 24.6,
+     "humidity": 85,
      "level": 0
     }
    ]
@@ -5685,99 +5685,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.1,
-     "feels": 28.6,
-     "humidity": 79,
+     "feels": 28.3,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.1,
-     "feels": 29.4,
-     "humidity": 80,
+     "tmax": 27.2,
+     "feels": 28.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 26.7,
-     "feels": 28.4,
-     "humidity": 80,
+     "tmax": 27.2,
+     "feels": 28.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 25.7,
-     "feels": 27.2,
-     "humidity": 80,
+     "tmax": 26.4,
+     "feels": 26.9,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.0,
-     "feels": 27.2,
+     "tmax": 25.6,
+     "feels": 26.6,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.1,
-     "feels": 26.5,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 26.3,
-     "feels": 26.4,
+     "tmax": 25.8,
+     "feels": 27.2,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-04",
+     "tmax": 25.9,
+     "feels": 26.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-05",
-     "tmax": 25.8,
-     "feels": 26.4,
-     "humidity": 82,
+     "tmax": 25.4,
+     "feels": 26.0,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 23.8,
-     "feels": 23.9,
-     "humidity": 80,
+     "tmax": 23.6,
+     "feels": 24.2,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 23.3,
-     "feels": 23.7,
+     "feels": 23.8,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 25.0,
-     "feels": 25.4,
-     "humidity": 77,
+     "tmax": 24.6,
+     "feels": 25.2,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 25.0,
-     "feels": 25.7,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
-     "tmax": 24.1,
-     "feels": 23.5,
+     "tmax": 24.6,
+     "feels": 25.5,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-10",
+     "tmax": 25.1,
+     "feels": 25.5,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 23.0,
-     "feels": 22.6,
-     "humidity": 73,
+     "tmax": 24.9,
+     "feels": 23.2,
+     "humidity": 72,
      "level": 0
     }
    ]
@@ -5794,99 +5794,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 30.4,
+     "feels": 30.3,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.5,
-     "feels": 30.3,
+     "tmax": 27.4,
+     "feels": 29.9,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 26.9,
-     "feels": 28.5,
-     "humidity": 82,
+     "tmax": 27.2,
+     "feels": 29.2,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 25.9,
-     "feels": 26.7,
-     "humidity": 79,
+     "tmax": 26.6,
+     "feels": 27.4,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.7,
-     "feels": 26.7,
-     "humidity": 80,
+     "tmax": 25.6,
+     "feels": 26.4,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.3,
-     "feels": 27.3,
+     "tmax": 26.0,
+     "feels": 28.0,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.3,
-     "feels": 27.0,
-     "humidity": 81,
+     "tmax": 26.1,
+     "feels": 26.6,
+     "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.5,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-06",
-     "tmax": 24.3,
-     "feels": 24.5,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 24.0,
-     "feels": 24.1,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 25.4,
+     "tmax": 25.6,
      "feels": 26.1,
      "humidity": 81,
      "level": 0
     },
     {
+     "date": "2026-12-06",
+     "tmax": 23.8,
+     "feels": 24.4,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-07",
+     "tmax": 24.2,
+     "feels": 24.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 25.1,
+     "feels": 25.4,
+     "humidity": 77,
+     "level": 0
+    },
+    {
      "date": "2026-12-09",
-     "tmax": 25.7,
-     "feels": 26.5,
-     "humidity": 80,
+     "tmax": 25.1,
+     "feels": 25.8,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.3,
-     "feels": 24.5,
-     "humidity": 75,
+     "tmax": 25.8,
+     "feels": 26.3,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.5,
-     "feels": 22.6,
-     "humidity": 73,
+     "tmax": 25.1,
+     "feels": 24.7,
+     "humidity": 75,
      "level": 0
     }
    ]
@@ -5903,99 +5903,99 @@
     {
      "date": "2026-11-28",
      "tmax": 26.7,
-     "feels": 28.2,
-     "humidity": 81,
+     "feels": 27.8,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.4,
-     "feels": 29.6,
+     "tmax": 26.8,
+     "feels": 28.9,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 26.3,
-     "feels": 28.6,
-     "humidity": 84,
+     "feels": 27.9,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 25.3,
-     "feels": 27.0,
-     "humidity": 81,
+     "tmax": 25.9,
+     "feels": 27.2,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.6,
-     "feels": 27.3,
-     "humidity": 82,
+     "tmax": 25.2,
+     "feels": 26.5,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.0,
-     "feels": 25.9,
-     "humidity": 81,
+     "tmax": 25.7,
+     "feels": 27.2,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 25.9,
-     "feels": 26.7,
-     "humidity": 82,
+     "tmax": 26.0,
+     "feels": 26.6,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.4,
-     "feels": 26.1,
-     "humidity": 80,
+     "tmax": 25.0,
+     "feels": 25.8,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 23.7,
-     "feels": 23.9,
+     "feels": 24.2,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 23.1,
-     "feels": 23.0,
-     "humidity": 79,
+     "feels": 23.5,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 24.8,
+     "tmax": 24.0,
+     "feels": 24.7,
+     "humidity": 81,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 24.2,
      "feels": 24.7,
      "humidity": 79,
      "level": 0
     },
     {
-     "date": "2026-12-09",
-     "tmax": 24.9,
-     "feels": 25.2,
-     "humidity": 82,
-     "level": 0
-    },
-    {
      "date": "2026-12-10",
-     "tmax": 24.0,
-     "feels": 24.3,
+     "tmax": 24.7,
+     "feels": 24.7,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.1,
-     "feels": 22.5,
-     "humidity": 76,
+     "tmax": 24.8,
+     "feels": 24.1,
+     "humidity": 80,
      "level": 0
     }
    ]
@@ -6011,100 +6011,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 26.8,
-     "feels": 28.1,
-     "humidity": 80,
+     "tmax": 26.5,
+     "feels": 27.9,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.0,
-     "feels": 28.9,
-     "humidity": 80,
+     "tmax": 26.9,
+     "feels": 28.3,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 26.4,
-     "feels": 28.5,
-     "humidity": 83,
-     "level": 0
-    },
-    {
-     "date": "2026-12-01",
-     "tmax": 25.4,
-     "feels": 27.1,
+     "tmax": 26.7,
+     "feels": 28.3,
      "humidity": 80,
      "level": 0
     },
     {
+     "date": "2026-12-01",
+     "tmax": 25.8,
+     "feels": 27.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
      "date": "2026-12-02",
-     "tmax": 25.7,
-     "feels": 27.1,
+     "tmax": 25.6,
+     "feels": 27.0,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.1,
-     "feels": 26.4,
-     "humidity": 80,
+     "tmax": 25.8,
+     "feels": 26.8,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 26.6,
+     "tmax": 25.8,
+     "feels": 26.4,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.5,
+     "tmax": 25.4,
+     "feels": 26.3,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
      "tmax": 23.8,
-     "feels": 24.0,
-     "humidity": 82,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 23.2,
-     "feels": 23.5,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 24.4,
-     "feels": 24.7,
+     "feels": 24.3,
      "humidity": 80,
      "level": 0
     },
     {
-     "date": "2026-12-09",
-     "tmax": 24.5,
-     "feels": 24.9,
-     "humidity": 83,
+     "date": "2026-12-07",
+     "tmax": 23.5,
+     "feels": 23.5,
+     "humidity": 76,
      "level": 0
     },
     {
-     "date": "2026-12-10",
-     "tmax": 23.8,
+     "date": "2026-12-08",
+     "tmax": 23.6,
      "feels": 24.0,
      "humidity": 81,
      "level": 0
     },
     {
+     "date": "2026-12-09",
+     "tmax": 24.6,
+     "feels": 25.1,
+     "humidity": 77,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 24.5,
+     "feels": 24.8,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 23.0,
-     "feels": 22.6,
-     "humidity": 76,
+     "tmax": 23.6,
+     "feels": 23.4,
+     "humidity": 82,
      "level": 0
     }
    ]
@@ -6121,99 +6121,99 @@
     {
      "date": "2026-11-28",
      "tmax": 26.8,
-     "feels": 27.2,
-     "humidity": 73,
+     "feels": 27.0,
+     "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.1,
-     "feels": 28.0,
+     "tmax": 27.2,
+     "feels": 28.1,
      "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 26.5,
-     "feels": 28.1,
-     "humidity": 74,
+     "tmax": 27.0,
+     "feels": 28.2,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 25.7,
-     "feels": 26.6,
-     "humidity": 74,
-     "level": 0
-    },
-    {
-     "date": "2026-12-02",
-     "tmax": 25.7,
-     "feels": 27.0,
+     "tmax": 25.6,
+     "feels": 25.5,
      "humidity": 70,
      "level": 0
     },
     {
+     "date": "2026-12-02",
+     "tmax": 25.4,
+     "feels": 25.8,
+     "humidity": 73,
+     "level": 0
+    },
+    {
      "date": "2026-12-03",
-     "tmax": 25.9,
-     "feels": 26.3,
-     "humidity": 76,
+     "tmax": 25.6,
+     "feels": 26.8,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.1,
-     "feels": 26.3,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 25.3,
-     "feels": 25.8,
+     "tmax": 25.9,
+     "feels": 26.2,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-05",
+     "tmax": 25.2,
+     "feels": 25.7,
+     "humidity": 78,
+     "level": 0
+    },
+    {
      "date": "2026-12-06",
-     "tmax": 23.6,
-     "feels": 23.6,
-     "humidity": 80,
+     "tmax": 23.9,
+     "feels": 23.5,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 23.3,
-     "feels": 23.2,
+     "tmax": 23.5,
+     "feels": 23.6,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 24.2,
+     "tmax": 23.1,
      "feels": 24.4,
-     "humidity": 77,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 24.5,
+     "tmax": 24.4,
      "feels": 24.8,
-     "humidity": 78,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 23.9,
-     "feels": 23.3,
+     "tmax": 24.6,
+     "feels": 24.9,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 22.8,
-     "feels": 22.1,
-     "humidity": 71,
+     "tmax": 23.9,
+     "feels": 22.7,
+     "humidity": 77,
      "level": 0
     }
    ]
@@ -6230,99 +6230,99 @@
     {
      "date": "2026-11-28",
      "tmax": 26.9,
-     "feels": 27.7,
-     "humidity": 77,
+     "feels": 27.6,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.1,
-     "feels": 28.8,
-     "humidity": 78,
+     "tmax": 27.0,
+     "feels": 28.5,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 26.5,
-     "feels": 28.0,
-     "humidity": 78,
+     "tmax": 26.8,
+     "feels": 28.2,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 25.8,
-     "feels": 26.7,
-     "humidity": 75,
+     "tmax": 26.2,
+     "feels": 26.0,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.8,
-     "feels": 26.8,
-     "humidity": 71,
+     "tmax": 25.4,
+     "feels": 25.8,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.7,
-     "feels": 26.2,
-     "humidity": 78,
+     "tmax": 25.6,
+     "feels": 26.8,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.1,
-     "feels": 26.3,
+     "tmax": 25.7,
+     "feels": 26.1,
      "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.6,
-     "feels": 25.7,
-     "humidity": 80,
+     "tmax": 25.2,
+     "feels": 25.0,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 23.6,
-     "feels": 23.3,
-     "humidity": 80,
+     "tmax": 23.7,
+     "feels": 23.4,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 23.3,
-     "feels": 23.6,
+     "tmax": 23.8,
+     "feels": 23.8,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 24.8,
-     "feels": 25.0,
+     "tmax": 24.9,
+     "feels": 25.5,
      "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 25.1,
-     "feels": 25.1,
-     "humidity": 78,
+     "tmax": 24.4,
+     "feels": 25.5,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 24.2,
-     "feels": 23.4,
-     "humidity": 77,
+     "tmax": 24.9,
+     "feels": 25.5,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 22.8,
-     "feels": 22.1,
-     "humidity": 71,
+     "tmax": 24.7,
+     "feels": 22.7,
+     "humidity": 72,
      "level": 0
     }
    ]
@@ -6338,100 +6338,100 @@
    "days": [
     {
      "date": "2026-11-28",
-     "tmax": 27.1,
-     "feels": 27.4,
+     "tmax": 26.6,
+     "feels": 26.7,
      "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.1,
-     "feels": 28.5,
+     "tmax": 27.2,
+     "feels": 28.6,
      "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 26.5,
-     "feels": 27.8,
-     "humidity": 73,
+     "tmax": 26.7,
+     "feels": 27.9,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 25.5,
-     "feels": 26.8,
-     "humidity": 77,
+     "tmax": 25.4,
+     "feels": 25.8,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.7,
-     "feels": 26.9,
-     "humidity": 72,
+     "tmax": 25.1,
+     "feels": 25.9,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-03",
      "tmax": 25.6,
-     "feels": 26.6,
-     "humidity": 77,
+     "feels": 27.0,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 25.8,
-     "feels": 26.3,
-     "humidity": 78,
+     "tmax": 25.6,
+     "feels": 26.2,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.3,
+     "tmax": 25.2,
      "feels": 25.3,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-06",
-     "tmax": 23.3,
-     "feels": 22.9,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-07",
-     "tmax": 23.3,
-     "feels": 23.0,
      "humidity": 78,
      "level": 0
     },
     {
-     "date": "2026-12-08",
-     "tmax": 23.7,
-     "feels": 24.1,
-     "humidity": 77,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 23.8,
-     "feels": 24.5,
-     "humidity": 80,
-     "level": 0
-    },
-    {
-     "date": "2026-12-10",
+     "date": "2026-12-06",
      "tmax": 23.4,
      "feels": 23.4,
      "humidity": 79,
      "level": 0
     },
     {
+     "date": "2026-12-07",
+     "tmax": 23.0,
+     "feels": 23.4,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-08",
+     "tmax": 22.9,
+     "feels": 23.8,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 23.6,
+     "feels": 23.7,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-10",
+     "tmax": 24.1,
+     "feels": 24.2,
+     "humidity": 77,
+     "level": 0
+    },
+    {
      "date": "2026-12-11",
-     "tmax": 22.8,
-     "feels": 21.7,
-     "humidity": 73,
+     "tmax": 22.9,
+     "feels": 23.1,
+     "humidity": 80,
      "level": 0
     }
    ]
@@ -6448,99 +6448,99 @@
     {
      "date": "2026-11-28",
      "tmax": 26.7,
-     "feels": 27.1,
-     "humidity": 75,
+     "feels": 27.0,
+     "humidity": 73,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 27.0,
-     "feels": 28.1,
-     "humidity": 76,
+     "tmax": 27.1,
+     "feels": 28.4,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 26.4,
-     "feels": 28.0,
-     "humidity": 78,
+     "tmax": 26.6,
+     "feels": 27.8,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 25.6,
-     "feels": 26.3,
-     "humidity": 77,
+     "tmax": 25.5,
+     "feels": 25.5,
+     "humidity": 74,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.6,
-     "feels": 26.5,
-     "humidity": 72,
+     "tmax": 25.3,
+     "feels": 25.8,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 25.8,
-     "feels": 26.2,
-     "humidity": 79,
+     "tmax": 25.5,
+     "feels": 26.8,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.0,
-     "feels": 26.4,
+     "tmax": 25.5,
+     "feels": 26.1,
      "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.2,
-     "feels": 25.1,
-     "humidity": 82,
+     "tmax": 24.8,
+     "feels": 25.0,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 23.2,
-     "feels": 22.8,
-     "humidity": 82,
+     "tmax": 23.3,
+     "feels": 23.3,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
      "tmax": 23.4,
-     "feels": 23.5,
-     "humidity": 77,
+     "feels": 23.8,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 24.4,
-     "feels": 24.8,
-     "humidity": 78,
+     "tmax": 24.0,
+     "feels": 25.0,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 24.4,
-     "feels": 24.3,
+     "tmax": 24.3,
+     "feels": 24.8,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 23.5,
-     "feels": 23.0,
-     "humidity": 78,
+     "tmax": 24.7,
+     "feels": 25.2,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 22.7,
-     "feels": 21.9,
-     "humidity": 73,
+     "tmax": 24.1,
+     "feels": 22.7,
+     "humidity": 78,
      "level": 0
     }
    ]
@@ -6557,42 +6557,42 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 30.3,
-     "humidity": 81,
+     "feels": 29.8,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.3,
-     "humidity": 77,
+     "tmax": 28.2,
+     "feels": 30.0,
+     "humidity": 75,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.2,
-     "feels": 29.9,
-     "humidity": 74,
+     "tmax": 27.9,
+     "feels": 29.6,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.2,
-     "feels": 28.2,
-     "humidity": 70,
+     "tmax": 27.6,
+     "feels": 28.3,
+     "humidity": 72,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.9,
-     "feels": 27.6,
-     "humidity": 80,
+     "tmax": 26.1,
+     "feels": 27.4,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.8,
-     "feels": 28.8,
+     "tmax": 26.5,
+     "feels": 28.6,
      "humidity": 83,
      "level": 0
     },
@@ -6600,56 +6600,56 @@
      "date": "2026-12-04",
      "tmax": 26.8,
      "feels": 28.8,
-     "humidity": 81,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 26.2,
-     "feels": 27.8,
+     "tmax": 25.6,
+     "feels": 27.6,
      "humidity": 82,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.5,
-     "feels": 25.6,
-     "humidity": 81,
+     "tmax": 24.6,
+     "feels": 25.3,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.5,
-     "feels": 24.9,
-     "humidity": 78,
+     "tmax": 24.2,
+     "feels": 24.6,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 25.2,
+     "tmax": 24.8,
      "feels": 25.7,
-     "humidity": 81,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 25.7,
-     "feels": 27.8,
-     "humidity": 81,
+     "tmax": 25.1,
+     "feels": 26.3,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-10",
-     "tmax": 25.6,
-     "feels": 25.3,
-     "humidity": 75,
+     "tmax": 25.5,
+     "feels": 26.8,
+     "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.2,
-     "feels": 23.7,
-     "humidity": 73,
+     "tmax": 24.4,
+     "feels": 25.8,
+     "humidity": 85,
      "level": 0
     }
    ]
@@ -6666,99 +6666,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
+     "feels": 29.8,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-11-29",
+     "tmax": 28.4,
      "feels": 30.3,
      "humidity": 81,
      "level": 0
     },
     {
-     "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.3,
+     "date": "2026-11-30",
+     "tmax": 27.7,
+     "feels": 29.1,
      "humidity": 80,
      "level": 0
     },
     {
-     "date": "2026-11-30",
-     "tmax": 27.7,
-     "feels": 28.8,
-     "humidity": 79,
-     "level": 0
-    },
-    {
      "date": "2026-12-01",
-     "tmax": 26.2,
-     "feels": 27.1,
+     "tmax": 26.6,
+     "feels": 27.4,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.4,
-     "feels": 26.6,
-     "humidity": 83,
+     "tmax": 25.6,
+     "feels": 26.9,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.6,
-     "feels": 28.1,
+     "tmax": 26.3,
+     "feels": 28.4,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.8,
-     "feels": 28.7,
-     "humidity": 84,
+     "tmax": 26.6,
+     "feels": 28.1,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.6,
-     "humidity": 84,
+     "tmax": 25.4,
+     "feels": 26.1,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.0,
-     "feels": 24.8,
+     "tmax": 23.8,
+     "feels": 24.5,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.0,
-     "feels": 24.6,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 25.2,
-     "feels": 26.0,
-     "humidity": 83,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 25.2,
-     "feels": 27.0,
+     "tmax": 23.7,
+     "feels": 24.2,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-08",
+     "tmax": 24.3,
+     "feels": 25.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 25.1,
+     "feels": 26.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 24.8,
-     "feels": 24.4,
-     "humidity": 76,
+     "tmax": 25.3,
+     "feels": 26.6,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.5,
-     "feels": 22.9,
-     "humidity": 76,
+     "tmax": 24.4,
+     "feels": 25.1,
+     "humidity": 81,
      "level": 0
     }
    ]
@@ -6775,99 +6775,99 @@
     {
      "date": "2026-11-28",
      "tmax": 27.8,
-     "feels": 30.3,
-     "humidity": 81,
+     "feels": 29.8,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.3,
-     "feels": 30.3,
-     "humidity": 80,
+     "tmax": 28.4,
+     "feels": 30.2,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-11-30",
      "tmax": 27.7,
-     "feels": 28.8,
-     "humidity": 79,
+     "feels": 29.1,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 26.2,
-     "feels": 27.1,
+     "tmax": 26.6,
+     "feels": 27.4,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 25.4,
-     "feels": 26.6,
-     "humidity": 83,
+     "tmax": 25.6,
+     "feels": 26.9,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 26.6,
-     "feels": 28.1,
+     "tmax": 26.3,
+     "feels": 28.4,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-04",
-     "tmax": 26.8,
-     "feels": 28.7,
-     "humidity": 84,
+     "tmax": 26.6,
+     "feels": 28.0,
+     "humidity": 85,
      "level": 0
     },
     {
      "date": "2026-12-05",
-     "tmax": 25.7,
-     "feels": 26.6,
-     "humidity": 84,
+     "tmax": 25.4,
+     "feels": 26.1,
+     "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-06",
-     "tmax": 24.0,
-     "feels": 24.8,
+     "tmax": 23.8,
+     "feels": 24.5,
      "humidity": 83,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.0,
-     "feels": 24.6,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-08",
-     "tmax": 25.2,
-     "feels": 25.9,
-     "humidity": 83,
-     "level": 0
-    },
-    {
-     "date": "2026-12-09",
-     "tmax": 25.2,
-     "feels": 27.0,
+     "tmax": 23.7,
+     "feels": 24.2,
      "humidity": 82,
      "level": 0
     },
     {
+     "date": "2026-12-08",
+     "tmax": 24.3,
+     "feels": 25.1,
+     "humidity": 79,
+     "level": 0
+    },
+    {
+     "date": "2026-12-09",
+     "tmax": 25.1,
+     "feels": 26.2,
+     "humidity": 81,
+     "level": 0
+    },
+    {
      "date": "2026-12-10",
-     "tmax": 24.8,
-     "feels": 24.4,
-     "humidity": 76,
+     "tmax": 25.3,
+     "feels": 26.6,
+     "humidity": 80,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 23.5,
-     "feels": 22.9,
-     "humidity": 76,
+     "tmax": 24.4,
+     "feels": 25.1,
+     "humidity": 81,
      "level": 0
     }
    ]
@@ -6884,99 +6884,99 @@
     {
      "date": "2026-11-28",
      "tmax": 28.4,
-     "feels": 30.6,
-     "humidity": 78,
+     "feels": 30.0,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-29",
-     "tmax": 28.4,
-     "feels": 30.5,
-     "humidity": 77,
+     "tmax": 28.6,
+     "feels": 30.2,
+     "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-11-30",
-     "tmax": 28.3,
-     "feels": 29.5,
+     "tmax": 28.1,
+     "feels": 29.9,
      "humidity": 76,
      "level": 0
     },
     {
      "date": "2026-12-01",
-     "tmax": 27.8,
-     "feels": 28.9,
+     "tmax": 28.5,
+     "feels": 27.7,
      "humidity": 71,
      "level": 0
     },
     {
      "date": "2026-12-02",
-     "tmax": 26.8,
-     "feels": 28.2,
+     "tmax": 26.5,
+     "feels": 27.9,
      "humidity": 78,
      "level": 0
     },
     {
      "date": "2026-12-03",
-     "tmax": 27.5,
-     "feels": 28.7,
-     "humidity": 78,
-     "level": 0
-    },
-    {
-     "date": "2026-12-04",
-     "tmax": 27.4,
-     "feels": 28.9,
-     "humidity": 81,
-     "level": 0
-    },
-    {
-     "date": "2026-12-05",
-     "tmax": 26.4,
-     "feels": 28.4,
+     "tmax": 26.9,
+     "feels": 28.3,
      "humidity": 80,
      "level": 0
     },
     {
+     "date": "2026-12-04",
+     "tmax": 27.2,
+     "feels": 28.9,
+     "humidity": 80,
+     "level": 0
+    },
+    {
+     "date": "2026-12-05",
+     "tmax": 26.3,
+     "feels": 28.0,
+     "humidity": 84,
+     "level": 0
+    },
+    {
      "date": "2026-12-06",
-     "tmax": 24.9,
-     "feels": 26.0,
-     "humidity": 82,
+     "tmax": 25.0,
+     "feels": 25.9,
+     "humidity": 81,
      "level": 0
     },
     {
      "date": "2026-12-07",
-     "tmax": 24.6,
-     "feels": 24.8,
-     "humidity": 77,
+     "tmax": 24.1,
+     "feels": 24.6,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-08",
-     "tmax": 25.3,
-     "feels": 24.4,
-     "humidity": 78,
+     "tmax": 24.7,
+     "feels": 24.9,
+     "humidity": 77,
      "level": 0
     },
     {
      "date": "2026-12-09",
-     "tmax": 26.1,
-     "feels": 27.2,
+     "tmax": 25.2,
+     "feels": 26.0,
      "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-10",
      "tmax": 25.7,
-     "feels": 25.6,
-     "humidity": 74,
+     "feels": 26.6,
+     "humidity": 79,
      "level": 0
     },
     {
      "date": "2026-12-11",
-     "tmax": 24.6,
-     "feels": 24.7,
-     "humidity": 70,
+     "tmax": 24.3,
+     "feels": 24.9,
+     "humidity": 81,
      "level": 0
     }
    ]
